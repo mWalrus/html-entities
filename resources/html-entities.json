@@ -3,7 +3,7 @@
     "html": "&quot;",
     "symbol": "\"",
     "numeric": "&#34;",
-    "description": "quotation mark",
+    "title": "Quotation Mark",
     "hex": "u+0022 ISOnum",
     "iso": "\\\\0022",
     "octal": "\\42"
@@ -12,7 +12,7 @@
     "html": "&num;",
     "symbol": "#",
     "numeric": "&#35;",
-    "description": "number sign",
+    "title": "Number Sign",
     "hex": "u+0023 ISOnum",
     "iso": "\\\\0023",
     "octal": "\\43"
@@ -21,7 +21,7 @@
     "html": "&dollar;",
     "symbol": "$",
     "numeric": "&#36;",
-    "description": "dollar sign",
+    "title": "Dollar Sign",
     "hex": "u+0024 ISOnum",
     "iso": "\\\\0024",
     "octal": "\\44"
@@ -30,7 +30,7 @@
     "html": "&percnt;",
     "symbol": "%",
     "numeric": "&#37;",
-    "description": "percent sign",
+    "title": "Percent Sign",
     "hex": "u+0025 ISOnum",
     "iso": "\\\\0025",
     "octal": "\\45"
@@ -39,7 +39,7 @@
     "html": "&amp;",
     "symbol": "&",
     "numeric": "&#38;",
-    "description": "ampersand",
+    "title": "Ampersand",
     "hex": "u+0026 ISOnum",
     "iso": "\\\\0026",
     "octal": "\\46"
@@ -48,7 +48,7 @@
     "html": "&apos;",
     "symbol": "'",
     "numeric": "&#39;",
-    "description": "apostrophe",
+    "title": "Apostrophe",
     "hex": "u+0027 ISOnum",
     "iso": "\\\\0027",
     "octal": "\\47"
@@ -57,7 +57,7 @@
     "html": "&lpar;",
     "symbol": "(",
     "numeric": "&#40;",
-    "description": "left parenthesis",
+    "title": "Left Parenthesis",
     "hex": "u+0028 ISOnum",
     "iso": "\\\\0028",
     "octal": "\\50"
@@ -66,7 +66,7 @@
     "html": "&rpar;",
     "symbol": ")",
     "numeric": "&#41;",
-    "description": "right parenthesis",
+    "title": "Right Parenthesis",
     "hex": "u+0029 ISOnum",
     "iso": "\\\\0029",
     "octal": "\\51"
@@ -75,7 +75,7 @@
     "html": "&ast;",
     "symbol": "*",
     "numeric": "&#42;",
-    "description": "asterisk",
+    "title": "Asterisk",
     "hex": "u+002A ISOnum",
     "iso": "\\\\002a",
     "octal": "\\52"
@@ -84,7 +84,7 @@
     "html": "&plus;",
     "symbol": "+",
     "numeric": "&#43;",
-    "description": "plus sign",
+    "title": "Plus Sign",
     "hex": "u+002B ISOnum",
     "iso": "\\\\002b",
     "octal": "\\53"
@@ -93,7 +93,7 @@
     "html": "&comma;",
     "symbol": ",",
     "numeric": "&#44;",
-    "description": "comma",
+    "title": "Comma",
     "hex": "u+002C ISOnum",
     "iso": "\\\\002c",
     "octal": "\\54"
@@ -102,7 +102,7 @@
     "html": "&minus;",
     "symbol": "-",
     "numeric": "&#45;",
-    "description": "hyphen-minus",
+    "title": "Hyphen-Minus",
     "hex": "u+002D ISOnum",
     "iso": "\\\\002d",
     "octal": "\\55"
@@ -111,7 +111,7 @@
     "html": "&period;",
     "symbol": ".",
     "numeric": "&#46;",
-    "description": "full stop; period",
+    "title": "Full Stop; Period",
     "hex": "u+002E ISOnum",
     "iso": "\\\\002e",
     "octal": "\\56"
@@ -120,7 +120,7 @@
     "html": "&sol;",
     "symbol": "/",
     "numeric": "&#47;",
-    "description": "solidus; slash",
+    "title": "Solidus; Slash",
     "hex": "u+002F ISOnum",
     "iso": "\\\\002f",
     "octal": "\\57"
@@ -129,7 +129,7 @@
     "html": "&colon;",
     "symbol": ":",
     "numeric": "&#58;",
-    "description": "colon",
+    "title": "Colon",
     "hex": "u+003A ISOnum",
     "iso": "\\\\003a",
     "octal": "\\72"
@@ -138,7 +138,7 @@
     "html": "&semi;",
     "symbol": ";",
     "numeric": "&#59;",
-    "description": "semicolon",
+    "title": "Semicolon",
     "hex": "u+003B ISOnum",
     "iso": "\\\\003b",
     "octal": "\\73"
@@ -147,7 +147,7 @@
     "html": "&lt;",
     "symbol": "<",
     "numeric": "&#60;",
-    "description": "less-than",
+    "title": "Less-Than",
     "hex": "u+003C ISOnum",
     "iso": "\\\\003c",
     "octal": "\\74"
@@ -156,7 +156,7 @@
     "html": "&equals;",
     "symbol": "=",
     "numeric": "&#61;",
-    "description": "equals",
+    "title": "Equals",
     "hex": "u+003D ISOnum",
     "iso": "\\\\003d",
     "octal": "\\75"
@@ -165,7 +165,7 @@
     "html": "&gt;",
     "symbol": ">",
     "numeric": "&#62;",
-    "description": "greater-than sign",
+    "title": "Greater-than Sign",
     "hex": "u+003E ISOnum",
     "iso": "\\\\003e",
     "octal": "\\76"
@@ -174,7 +174,7 @@
     "html": "&quest;",
     "symbol": "?",
     "numeric": "&#63;",
-    "description": "question mark",
+    "title": "Question Mark",
     "hex": "u+003F ISOnum",
     "iso": "\\\\003f",
     "octal": "\\77"
@@ -183,7 +183,7 @@
     "html": "&commat;",
     "symbol": "@",
     "numeric": "&#64;",
-    "description": "at sign; commercial at",
+    "title": "At Sign; Commercial At",
     "hex": "u+0040 ISOnum",
     "iso": "\\\\0040",
     "octal": "\\100"
@@ -192,7 +192,7 @@
     "html": "&lsqb;",
     "symbol": "[",
     "numeric": "&#91;",
-    "description": "left square bracket",
+    "title": "Left Square Bracket",
     "hex": "u+005B ISOnum",
     "iso": "\\\\005b",
     "octal": "\\133"
@@ -201,7 +201,7 @@
     "html": "&bsol;",
     "symbol": "\\",
     "numeric": "&#92;",
-    "description": "backslash",
+    "title": "Backslash",
     "hex": "u+005C ISOnum",
     "iso": "\\\\005c",
     "octal": "\\134"
@@ -210,7 +210,7 @@
     "html": "&rsqb;",
     "symbol": "]",
     "numeric": "&#93;",
-    "description": "right square bracket",
+    "title": "Right Square Bracket",
     "hex": "u+005D ISOnum",
     "iso": "\\\\005d",
     "octal": "\\135"
@@ -219,7 +219,7 @@
     "html": "&Hat;",
     "symbol": "^",
     "numeric": "&#94;",
-    "description": "circumflex accent",
+    "title": "Circumflex Accent",
     "hex": "u+005E ISOnum",
     "iso": "\\\\005e",
     "octal": "\\136"
@@ -228,7 +228,7 @@
     "html": "&lowbar;",
     "symbol": "_",
     "numeric": "&#95;",
-    "description": "low line",
+    "title": "Low Line",
     "hex": "u+005F ISOnum",
     "iso": "\\\\005f",
     "octal": "\\137"
@@ -237,7 +237,7 @@
     "html": "&grave;",
     "symbol": "&#96;",
     "numeric": "&#96;",
-    "description": "grave accent",
+    "title": "Grave Accent",
     "hex": "u+0060 ISOnum",
     "iso": "\\\\0060",
     "octal": "\\u0060"
@@ -246,7 +246,7 @@
     "html": "&lcub;",
     "symbol": "{",
     "numeric": "&#123;",
-    "description": "left curly bracket",
+    "title": "Left Curly Bracket",
     "hex": "u+007b ISOnum",
     "iso": "\\\\007b",
     "octal": "\\173"
@@ -255,7 +255,7 @@
     "html": "&verbar;",
     "symbol": "\\",
     "numeric": "",
-    "description": "&#124;",
+    "title": "&#124;",
     "hex": "vertical bar",
     "iso": "u+007c ISOnum",
     "octal": "\\\\007c"
@@ -264,7 +264,7 @@
     "html": "&rcub;",
     "symbol": "}",
     "numeric": "&#125;",
-    "description": "right curly bracket",
+    "title": "Right Curly Bracket",
     "hex": "u+007d ISOnum",
     "iso": "\\\\007d",
     "octal": "\\175"
@@ -273,7 +273,7 @@
     "html": "",
     "symbol": "~",
     "numeric": "&#126;",
-    "description": "tilde",
+    "title": "Tilde",
     "hex": "u+007e ISOnum",
     "iso": "\\\\007e",
     "octal": "\\176"
@@ -282,7 +282,7 @@
     "html": "&nbsp;",
     "symbol": "",
     "numeric": "&#160;",
-    "description": "no-break space",
+    "title": "No-Break Space",
     "hex": "%A0",
     "iso": "\\\\00a0",
     "octal": "\\240"
@@ -291,7 +291,7 @@
     "html": "&iexcl;",
     "symbol": "¡",
     "numeric": "&#161;",
-    "description": "inverted exclamation mark",
+    "title": "Inverted Exclamation Mark",
     "hex": "%A1",
     "iso": "\\\\00a1",
     "octal": "\\241"
@@ -300,7 +300,7 @@
     "html": "&cent;",
     "symbol": "¢",
     "numeric": "&#162;",
-    "description": "cent sign",
+    "title": "Cent Sign",
     "hex": "%A2",
     "iso": "\\\\00a2",
     "octal": "\\242"
@@ -309,7 +309,7 @@
     "html": "&pound;",
     "symbol": "£",
     "numeric": "&#163;",
-    "description": "pound sterling sign",
+    "title": "Pound Sterling Sign",
     "hex": "%A3",
     "iso": "\\\\00a3",
     "octal": "\\243"
@@ -318,7 +318,7 @@
     "html": "&curren;",
     "symbol": "¤",
     "numeric": "&#164;",
-    "description": "general currency sign",
+    "title": "General Currency Sign",
     "hex": "%A4",
     "iso": "\\\\00a4",
     "octal": "\\244"
@@ -327,7 +327,7 @@
     "html": "&yen;",
     "symbol": "¥",
     "numeric": "&#165;",
-    "description": "yen sign",
+    "title": "Yen Sign",
     "hex": "%A5",
     "iso": "\\\\00a5",
     "octal": "\\245"
@@ -336,7 +336,7 @@
     "html": "&#x20B9;",
     "symbol": "₹",
     "numeric": "&#x20B9;",
-    "description": "Indian Rupee (INR) sign",
+    "title": "Indian Rupee (INR) Sign",
     "hex": "U+20B9",
     "iso": "\\\\20B9",
     "octal": "\\u20B9"
@@ -345,7 +345,7 @@
     "html": "&brvbar;",
     "symbol": "¦",
     "numeric": "&#166;",
-    "description": "broken (vertical) bar",
+    "title": "Broken (Vertical) Bar",
     "hex": "%A6",
     "iso": "\\\\00a6",
     "octal": "\\246"
@@ -354,7 +354,7 @@
     "html": "&sect;",
     "symbol": "§",
     "numeric": "&#167;",
-    "description": "section sign",
+    "title": "Section Sign",
     "hex": "%A7",
     "iso": "\\\\00a7",
     "octal": "\\247"
@@ -363,7 +363,7 @@
     "html": "&uml;",
     "symbol": "¨",
     "numeric": "&#168;",
-    "description": "umlaut (dieresis)",
+    "title": "Umlaut (Dieresis)",
     "hex": "%A8",
     "iso": "\\\\00a8",
     "octal": "\\250"
@@ -372,7 +372,7 @@
     "html": "&copy;",
     "symbol": "©",
     "numeric": "&#169;",
-    "description": "copyright sign",
+    "title": "Copyright Sign",
     "hex": "%A9",
     "iso": "\\\\00a9",
     "octal": "\\251"
@@ -381,7 +381,7 @@
     "html": "&ordf;",
     "symbol": "ª",
     "numeric": "&#170;",
-    "description": "ordinal indicator, feminine",
+    "title": "Ordinal Indicator, Feminine",
     "hex": "%AA",
     "iso": "\\\\00aa",
     "octal": "\\252"
@@ -390,7 +390,7 @@
     "html": "&laquo;",
     "symbol": "«",
     "numeric": "&#171;",
-    "description": "angle quotation mark, left",
+    "title": "Angle Quotation Mark, Left",
     "hex": "%AB",
     "iso": "\\\\00ab",
     "octal": "\\253"
@@ -399,7 +399,7 @@
     "html": "&not;",
     "symbol": "¬",
     "numeric": "&#172;",
-    "description": "not sign",
+    "title": "Not Sign",
     "hex": "%AC",
     "iso": "\\\\00ac",
     "octal": "\\254"
@@ -408,7 +408,7 @@
     "html": "&shy;",
     "symbol": "­",
     "numeric": "&#173;",
-    "description": "soft hyphen",
+    "title": "Soft Hyphen",
     "hex": "%AD",
     "iso": "\\\\00ad",
     "octal": "\\255"
@@ -417,7 +417,7 @@
     "html": "&reg;",
     "symbol": "®",
     "numeric": "&#174;",
-    "description": "registered sign",
+    "title": "Registered Sign",
     "hex": "%AE",
     "iso": "\\\\00ae",
     "octal": "\\256"
@@ -426,7 +426,7 @@
     "html": "&macr;",
     "symbol": "¯",
     "numeric": "&#175;",
-    "description": "macron",
+    "title": "Macron",
     "hex": "%AF",
     "iso": "\\\\00af",
     "octal": "\\257"
@@ -435,7 +435,7 @@
     "html": "&deg;",
     "symbol": "°",
     "numeric": "&#176;",
-    "description": "degree sign",
+    "title": "Degree Sign",
     "hex": "%B0",
     "iso": "\\\\00b0",
     "octal": "\\260"
@@ -444,7 +444,7 @@
     "html": "&plusmn;",
     "symbol": "±",
     "numeric": "&#177;",
-    "description": "plus-or-minus sign",
+    "title": "Plus-or-Minus Sign",
     "hex": "%B1",
     "iso": "\\\\00b1",
     "octal": "\\261"
@@ -453,7 +453,7 @@
     "html": "&sup2;",
     "symbol": "²",
     "numeric": "&#178;",
-    "description": "superscript two",
+    "title": "Superscript Two",
     "hex": "%B2",
     "iso": "\\\\00b2",
     "octal": "\\262"
@@ -462,7 +462,7 @@
     "html": "&sup3;",
     "symbol": "³",
     "numeric": "&#179;",
-    "description": "superscript three",
+    "title": "Superscript Three",
     "hex": "%B3",
     "iso": "\\\\00b3",
     "octal": "\\263"
@@ -471,7 +471,7 @@
     "html": "&acute;",
     "symbol": "´",
     "numeric": "&#180;",
-    "description": "acute accent",
+    "title": "Acute Accent",
     "hex": "%B4",
     "iso": "\\\\00b4",
     "octal": "\\264"
@@ -480,7 +480,7 @@
     "html": "&micro;",
     "symbol": "µ",
     "numeric": "&#181;",
-    "description": "micro sign",
+    "title": "Micro Sign",
     "hex": "%B5",
     "iso": "\\\\00b5",
     "octal": "\\265"
@@ -489,7 +489,7 @@
     "html": "&para;",
     "symbol": "¶",
     "numeric": "&#182;",
-    "description": "pilcrow (paragraph sign)",
+    "title": "Pilcrow (Paragraph Sign)",
     "hex": "%B6",
     "iso": "\\\\00b6",
     "octal": "\\266"
@@ -498,7 +498,7 @@
     "html": "&middot;",
     "symbol": "·",
     "numeric": "&#183;",
-    "description": "middle dot",
+    "title": "Middle Dot",
     "hex": "%B7",
     "iso": "\\\\00b7",
     "octal": "\\267"
@@ -507,7 +507,7 @@
     "html": "&cedil;",
     "symbol": "¸",
     "numeric": "&#184;",
-    "description": "cedilla",
+    "title": "Cedilla",
     "hex": "%B8",
     "iso": "\\\\00b8",
     "octal": "\\270"
@@ -516,7 +516,7 @@
     "html": "&sup1;",
     "symbol": "¹",
     "numeric": "&#185;",
-    "description": "superscript one",
+    "title": "Superscript One",
     "hex": "%B9",
     "iso": "\\\\00b9",
     "octal": "\\271"
@@ -525,7 +525,7 @@
     "html": "&ordm;",
     "symbol": "º",
     "numeric": "&#186;",
-    "description": "ordinal indicator, masculine",
+    "title": "Ordinal Indicator, Masculine",
     "hex": "%BA",
     "iso": "\\\\00ba",
     "octal": "\\272"
@@ -534,7 +534,7 @@
     "html": "&raquo;",
     "symbol": "»",
     "numeric": "&#187;",
-    "description": "angle quotation mark, right",
+    "title": "Angle Quotation Mark, Right",
     "hex": "%BB",
     "iso": "\\\\00bb",
     "octal": "\\273"
@@ -543,7 +543,7 @@
     "html": "&frac14;",
     "symbol": "¼",
     "numeric": "&#188;",
-    "description": "fraction one-quarter",
+    "title": "Fraction One-Quarter",
     "hex": "%BC",
     "iso": "\\\\00bc",
     "octal": "\\274"
@@ -552,7 +552,7 @@
     "html": "&frac12;",
     "symbol": "½",
     "numeric": "&#189;",
-    "description": "fraction one-half",
+    "title": "Fraction One-Half",
     "hex": "%BD",
     "iso": "\\\\00bd",
     "octal": "\\275"
@@ -561,7 +561,7 @@
     "html": "&frac34;",
     "symbol": "¾",
     "numeric": "&#190;",
-    "description": "fraction three-quarters",
+    "title": "Fraction Three-Quarters",
     "hex": "%BE",
     "iso": "\\\\00be",
     "octal": "\\276"
@@ -570,7 +570,7 @@
     "html": "&iquest;",
     "symbol": "¿",
     "numeric": "&#191;",
-    "description": "inverted question mark",
+    "title": "Inverted Question Mark",
     "hex": "%BF",
     "iso": "\\\\00bf",
     "octal": "\\277"
@@ -579,7 +579,7 @@
     "html": "&Agrave;",
     "symbol": "À",
     "numeric": "&#192;",
-    "description": "capital A, grave accent",
+    "title": "Capital A, Grave Accent",
     "hex": "%C0",
     "iso": "\\\\00c0",
     "octal": "\\300"
@@ -588,7 +588,7 @@
     "html": "&Aacute;",
     "symbol": "Á",
     "numeric": "&#193;",
-    "description": "capital A, acute accent",
+    "title": "Capital A, Acute Accent",
     "hex": "%C1",
     "iso": "\\\\00c1",
     "octal": "\\301"
@@ -597,7 +597,7 @@
     "html": "&Acirc;",
     "symbol": "Â",
     "numeric": "&#194 ;",
-    "description": "capital A, circumflex accent",
+    "title": "Capital A, Circumflex Accent",
     "hex": "%C2",
     "iso": "\\\\00c2",
     "octal": "\\302"
@@ -606,7 +606,7 @@
     "html": "&Atilde;",
     "symbol": "Ã",
     "numeric": "&#195;",
-    "description": "capital A, tilde",
+    "title": "Capital A, Tilde",
     "hex": "%C3",
     "iso": "\\\\00c3",
     "octal": "\\303"
@@ -615,7 +615,7 @@
     "html": "&Auml;",
     "symbol": "Ä",
     "numeric": "&#196;",
-    "description": "capital A, dieresis or umlaut mark",
+    "title": "Capital A, Dieresis or Umlaut Mark",
     "hex": "%C4",
     "iso": "\\\\00c4",
     "octal": "\\304"
@@ -624,7 +624,7 @@
     "html": "&Aring;",
     "symbol": "Å",
     "numeric": "&#197;",
-    "description": "capital A, ring",
+    "title": "Capital A, Ring",
     "hex": "%C5",
     "iso": "\\\\00c5",
     "octal": "\\305"
@@ -633,7 +633,7 @@
     "html": "&AElig;",
     "symbol": "Æ",
     "numeric": "&#198;",
-    "description": "capital AE diphthong (ligature)",
+    "title": "Capital AE Diphthong (Ligature)",
     "hex": "%C6",
     "iso": "\\\\00c6",
     "octal": "\\306"
@@ -642,7 +642,7 @@
     "html": "&Ccedil;",
     "symbol": "Ç",
     "numeric": "&#199;",
-    "description": "capital C, cedilla",
+    "title": "Capital C, Cedilla",
     "hex": "%C7",
     "iso": "\\\\00c7",
     "octal": "\\307"
@@ -651,7 +651,7 @@
     "html": "&Egrave;",
     "symbol": "È",
     "numeric": "&#200;",
-    "description": "capital E, grave accent",
+    "title": "Capital E, Grave Accent",
     "hex": "%C8",
     "iso": "\\\\00c8",
     "octal": "\\310"
@@ -660,7 +660,7 @@
     "html": "&Eacute;",
     "symbol": "É",
     "numeric": "&#201;",
-    "description": "capital E, acute accent",
+    "title": "Capital E, Acute Accent",
     "hex": "%C9",
     "iso": "\\\\00c9",
     "octal": "\\311"
@@ -669,7 +669,7 @@
     "html": "&Ecirc;",
     "symbol": "Ê",
     "numeric": "&#202;",
-    "description": "capital E, circumflex accent",
+    "title": "Capital E, Circumflex Accent",
     "hex": "%CA",
     "iso": "\\\\00ca",
     "octal": "\\312"
@@ -678,7 +678,7 @@
     "html": "&Euml;",
     "symbol": "Ë",
     "numeric": "&#203;",
-    "description": "capital E, dieresis or umlaut mark",
+    "title": "Capital E, Dieresis or Umlaut Mark",
     "hex": "%CB",
     "iso": "\\\\00cb",
     "octal": "\\313"
@@ -687,7 +687,7 @@
     "html": "&Igrave;",
     "symbol": "Ì",
     "numeric": "&#204;",
-    "description": "capital I, grave accent",
+    "title": "Capital I, Grave Accent",
     "hex": "%CC",
     "iso": "\\\\00cc",
     "octal": "\\314"
@@ -696,7 +696,7 @@
     "html": "&Iacute;",
     "symbol": "Í",
     "numeric": "&#205;",
-    "description": "capital I, acute accent",
+    "title": "Capital I, Acute Accent",
     "hex": "%CD",
     "iso": "\\\\00cd",
     "octal": "\\315"
@@ -705,7 +705,7 @@
     "html": "&Icirc;",
     "symbol": "Î",
     "numeric": "&#206;",
-    "description": "capital I, circumflex accent",
+    "title": "Capital I, Circumflex Accent",
     "hex": "%CE",
     "iso": "\\\\00ce",
     "octal": "\\316"
@@ -714,7 +714,7 @@
     "html": "&Iuml;",
     "symbol": "Ï",
     "numeric": "&#207;",
-    "description": "capital I, dieresis or umlaut mark",
+    "title": "Capital I, Dieresis or Umlaut Mark",
     "hex": "%CF",
     "iso": "\\\\00cf",
     "octal": "\\317"
@@ -723,7 +723,7 @@
     "html": "&ETH;",
     "symbol": "Ð",
     "numeric": "&#208;",
-    "description": "capital Eth, Icelandic",
+    "title": "Capital Eth, Icelandic",
     "hex": "%D0",
     "iso": "\\\\00d0",
     "octal": "\\320"
@@ -732,7 +732,7 @@
     "html": "&Ntilde;",
     "symbol": "Ñ",
     "numeric": "&#209;",
-    "description": "capital N, tilde",
+    "title": "Capital N, Tilde",
     "hex": "%D1",
     "iso": "\\\\00d1",
     "octal": "\\321"
@@ -741,7 +741,7 @@
     "html": "&Ograve;",
     "symbol": "Ò",
     "numeric": "&#210;",
-    "description": "capital O, grave accent",
+    "title": "Capital O, Grave Accent",
     "hex": "%D2",
     "iso": "\\\\00d2",
     "octal": "\\322"
@@ -750,7 +750,7 @@
     "html": "&Oacute;",
     "symbol": "Ó",
     "numeric": "&#211;",
-    "description": "capital O, acute accent",
+    "title": "Capital O, Acute Accent",
     "hex": "%D3",
     "iso": "\\\\00d3",
     "octal": "\\323"
@@ -759,7 +759,7 @@
     "html": "&Ocirc;",
     "symbol": "Ô",
     "numeric": "&#212;",
-    "description": "capital O, circumflex accent",
+    "title": "Capital O, Circumflex Accent",
     "hex": "%D4",
     "iso": "\\\\00d4",
     "octal": "\\324"
@@ -768,7 +768,7 @@
     "html": "&Otilde;",
     "symbol": "Õ",
     "numeric": "&#213;",
-    "description": "capital O, tilde",
+    "title": "Capital O, Tilde",
     "hex": "%D5",
     "iso": "\\\\00d5",
     "octal": "\\325"
@@ -777,7 +777,7 @@
     "html": "&Ouml;",
     "symbol": "Ö",
     "numeric": "&#214;",
-    "description": "capital O, dieresis or umlaut mark",
+    "title": "Capital O, Dieresis or Umlaut Mark",
     "hex": "%D6",
     "iso": "\\\\00d6",
     "octal": "\\326"
@@ -786,7 +786,7 @@
     "html": "&times;",
     "symbol": "×",
     "numeric": "&#215;",
-    "description": "multiply sign",
+    "title": "Multiply Sign",
     "hex": "%D7",
     "iso": "\\\\00d7",
     "octal": "\\327"
@@ -795,7 +795,7 @@
     "html": "&Oslash;",
     "symbol": "Ø",
     "numeric": "&#216;",
-    "description": "capital O, slash",
+    "title": "Capital O, Slash",
     "hex": "%D8",
     "iso": "\\\\00d8",
     "octal": "\\330"
@@ -804,7 +804,7 @@
     "html": "&Ugrave;",
     "symbol": "Ù",
     "numeric": "&#217;",
-    "description": "capital U, grave accent",
+    "title": "Capital U, Grave Accent",
     "hex": "%D9",
     "iso": "\\\\00d9",
     "octal": "\\331"
@@ -813,7 +813,7 @@
     "html": "&Uacute;",
     "symbol": "Ú",
     "numeric": "&#218;",
-    "description": "capital U, acute accent",
+    "title": "Capital U, Acute Accent",
     "hex": "%DA",
     "iso": "\\\\00da",
     "octal": "\\332"
@@ -822,7 +822,7 @@
     "html": "&Ucirc;",
     "symbol": "Û",
     "numeric": "&#219;",
-    "description": "capital U, circumflex accent",
+    "title": "Capital U, Circumflex Accent",
     "hex": "%DB",
     "iso": "\\\\00db",
     "octal": "\\333"
@@ -831,7 +831,7 @@
     "html": "&Uuml;",
     "symbol": "Ü",
     "numeric": "&#220;",
-    "description": "capital U, dieresis or umlaut mark",
+    "title": "Capital U, Dieresis or Umlaut Mark",
     "hex": "%DC",
     "iso": "\\\\00dc",
     "octal": "\\334"
@@ -840,7 +840,7 @@
     "html": "&Yacute;",
     "symbol": "Ý",
     "numeric": "&#221;",
-    "description": "capital Y, acute accent",
+    "title": "Capital Y, Acute Accent",
     "hex": "%DD",
     "iso": "\\\\00dd",
     "octal": "\\335"
@@ -849,7 +849,7 @@
     "html": "&THORN;",
     "symbol": "Þ",
     "numeric": "&#222;",
-    "description": "capital THORN, Icelandic",
+    "title": "Capital THORN, Icelandic",
     "hex": "%DE",
     "iso": "\\\\00de",
     "octal": "\\336"
@@ -858,7 +858,7 @@
     "html": "&szlig;",
     "symbol": "ß",
     "numeric": "&#223;",
-    "description": "small sharp s, German (sz ligature)",
+    "title": "Small Sharp S, German (Sz Ligature)",
     "hex": "%DF",
     "iso": "\\\\00df",
     "octal": "\\337"
@@ -867,7 +867,7 @@
     "html": "&agrave;",
     "symbol": "à",
     "numeric": "&#224;",
-    "description": "small a, grave accent",
+    "title": "Small a, Grave Accent",
     "hex": "%E0",
     "iso": "\\\\00e0",
     "octal": "\\340"
@@ -876,7 +876,7 @@
     "html": "&aacute;",
     "symbol": "á",
     "numeric": "&#225;",
-    "description": "small a, acute accent",
+    "title": "Small a, Acute Accent",
     "hex": "%E1",
     "iso": "\\\\00e1",
     "octal": "\\341"
@@ -885,7 +885,7 @@
     "html": "&acirc;",
     "symbol": "â",
     "numeric": "&#226;",
-    "description": "small a, circumflex accent",
+    "title": "Small a, Circumflex Accent",
     "hex": "%E2",
     "iso": "\\\\00e2",
     "octal": "\\342"
@@ -894,7 +894,7 @@
     "html": "&atilde;",
     "symbol": "ã",
     "numeric": "&#227;",
-    "description": "small a, tilde",
+    "title": "Small a, Tilde",
     "hex": "%E3",
     "iso": "\\\\00e3",
     "octal": "\\343"
@@ -903,7 +903,7 @@
     "html": "&auml;",
     "symbol": "ä",
     "numeric": "&#228;",
-    "description": "small a, dieresis or umlaut mark",
+    "title": "Small a, Dieresis or Umlaut Mark",
     "hex": "%E4",
     "iso": "\\\\00e4",
     "octal": "\\344"
@@ -912,7 +912,7 @@
     "html": "&aring;",
     "symbol": "å",
     "numeric": "&#229;",
-    "description": "small a, ring",
+    "title": "Small a, Ring",
     "hex": "%E5",
     "iso": "\\\\00e5",
     "octal": "\\345"
@@ -921,7 +921,7 @@
     "html": "&aelig;",
     "symbol": "æ",
     "numeric": "&#230;",
-    "description": "small ae diphthong (ligature)",
+    "title": "Small Ae Diphthong (Ligature)",
     "hex": "%E6",
     "iso": "\\\\00e6",
     "octal": "\\346"
@@ -930,7 +930,7 @@
     "html": "&ccedil;",
     "symbol": "ç",
     "numeric": "&#231;",
-    "description": "small c, cedilla",
+    "title": "Small C, Cedilla",
     "hex": "%E7",
     "iso": "\\\\00e7",
     "octal": "\\347"
@@ -939,7 +939,7 @@
     "html": "&egrave;",
     "symbol": "è",
     "numeric": "&#232;",
-    "description": "small e, grave accent",
+    "title": "Small E, Grave Accent",
     "hex": "%E8",
     "iso": "\\\\00e8",
     "octal": "\\350"
@@ -948,7 +948,7 @@
     "html": "&eacute;",
     "symbol": "é",
     "numeric": "&#233;",
-    "description": "small e, acute accent",
+    "title": "Small E, Acute Accent",
     "hex": "%E9",
     "iso": "\\\\00e9",
     "octal": "\\351"
@@ -957,7 +957,7 @@
     "html": "&ecirc;",
     "symbol": "ê",
     "numeric": "&#234;",
-    "description": "small e, circumflex accent",
+    "title": "Small E, Circumflex Accent",
     "hex": "%EA",
     "iso": "\\\\00ea",
     "octal": "\\352"
@@ -966,7 +966,7 @@
     "html": "&euml;",
     "symbol": "ë",
     "numeric": "&#235;",
-    "description": "small e, dieresis or umlaut mark",
+    "title": "Small E, Dieresis or Umlaut Mark",
     "hex": "%EB",
     "iso": "\\\\00eb",
     "octal": "\\353"
@@ -975,7 +975,7 @@
     "html": "&igrave;",
     "symbol": "ì",
     "numeric": "&#236;",
-    "description": "small i, grave accent",
+    "title": "Small I, Grave Accent",
     "hex": "%EC",
     "iso": "\\\\00ec",
     "octal": "\\354"
@@ -984,7 +984,7 @@
     "html": "&iacute;",
     "symbol": "í",
     "numeric": "&#237;",
-    "description": "small i, acute accent",
+    "title": "Small I, Acute Accent",
     "hex": "%ED",
     "iso": "\\\\00ed",
     "octal": "\\355"
@@ -993,7 +993,7 @@
     "html": "&icirc;",
     "symbol": "î",
     "numeric": "&#238;",
-    "description": "small i, circumflex accent",
+    "title": "Small I, Circumflex Accent",
     "hex": "%EE",
     "iso": "\\\\00ee",
     "octal": "\\356"
@@ -1002,7 +1002,7 @@
     "html": "&iuml;",
     "symbol": "ï",
     "numeric": "&#239;",
-    "description": "small i, dieresis or umlaut mark",
+    "title": "Small I, Dieresis or Umlaut Mark",
     "hex": "%EF",
     "iso": "\\\\00ef",
     "octal": "\\357"
@@ -1011,7 +1011,7 @@
     "html": "&eth;",
     "symbol": "ð",
     "numeric": "&#240;",
-    "description": "small eth, Icelandic",
+    "title": "Small Eth, Icelandic",
     "hex": "%F0",
     "iso": "\\\\00f0",
     "octal": "\\360"
@@ -1020,7 +1020,7 @@
     "html": "&ntilde;",
     "symbol": "ñ",
     "numeric": "&#241;",
-    "description": "small n, tilde",
+    "title": "Small N, Tilde",
     "hex": "%F1",
     "iso": "\\\\00f1",
     "octal": "\\361"
@@ -1029,7 +1029,7 @@
     "html": "&ograve;",
     "symbol": "ò",
     "numeric": "&#242;",
-    "description": "small o, grave accent",
+    "title": "Small O, Grave Accent",
     "hex": "%F2",
     "iso": "\\\\00f2",
     "octal": "\\362"
@@ -1038,7 +1038,7 @@
     "html": "&oacute;",
     "symbol": "ó",
     "numeric": "&#243;",
-    "description": "small o, acute accent",
+    "title": "Small O, Acute Accent",
     "hex": "%F3",
     "iso": "\\\\00f3",
     "octal": "\\363"
@@ -1047,7 +1047,7 @@
     "html": "&ocirc;",
     "symbol": "ô",
     "numeric": "&#244;",
-    "description": "small o, circumflex accent",
+    "title": "Small O, Circumflex Accent",
     "hex": "%F4",
     "iso": "\\\\00f4",
     "octal": "\\364"
@@ -1056,7 +1056,7 @@
     "html": "&otilde;",
     "symbol": "õ",
     "numeric": "&#245;",
-    "description": "small o, tilde",
+    "title": "Small O, Tilde",
     "hex": "%F5",
     "iso": "\\\\00f5",
     "octal": "\\365"
@@ -1065,7 +1065,7 @@
     "html": "&ouml;",
     "symbol": "ö",
     "numeric": "&#246;",
-    "description": "small o, dieresis or umlaut mark",
+    "title": "Small O, Dieresis or Umlaut Mark",
     "hex": "%F6",
     "iso": "\\\\00f6",
     "octal": "\\366"
@@ -1074,7 +1074,7 @@
     "html": "&divide;",
     "symbol": "÷",
     "numeric": "&#247;",
-    "description": "divide sign",
+    "title": "Divide Sign",
     "hex": "%F7",
     "iso": "\\\\00f7",
     "octal": "\\367"
@@ -1083,7 +1083,7 @@
     "html": "&oslash;",
     "symbol": "ø",
     "numeric": "&#248;",
-    "description": "small o, slash",
+    "title": "Small O, Slash",
     "hex": "%F8",
     "iso": "\\\\00f8",
     "octal": "\\370"
@@ -1092,7 +1092,7 @@
     "html": "&ugrave;",
     "symbol": "ù",
     "numeric": "&#249;",
-    "description": "small u, grave accent",
+    "title": "Small U, Grave Accent",
     "hex": "%F9",
     "iso": "\\\\00f9",
     "octal": "\\371"
@@ -1101,7 +1101,7 @@
     "html": "&uacute;",
     "symbol": "ú",
     "numeric": "&#250;",
-    "description": "small u, acute accent",
+    "title": "Small U, Acute Accent",
     "hex": "%FA",
     "iso": "\\\\00fa",
     "octal": "\\372"
@@ -1110,7 +1110,7 @@
     "html": "&ucirc;",
     "symbol": "û",
     "numeric": "&#251;",
-    "description": "small u, circumflex accent",
+    "title": "Small U, Circumflex Accent",
     "hex": "%FB",
     "iso": "\\\\00fb",
     "octal": "\\373"
@@ -1119,7 +1119,7 @@
     "html": "&uuml;",
     "symbol": "ü",
     "numeric": "&#252;",
-    "description": "small u, dieresis or umlaut mark",
+    "title": "Small U, Dieresis or Umlaut Mark",
     "hex": "%FC",
     "iso": "\\\\00fc",
     "octal": "\\374"
@@ -1128,7 +1128,7 @@
     "html": "&yacute;",
     "symbol": "ý",
     "numeric": "&#253;",
-    "description": "small y, acute accent",
+    "title": "Small Y, Acute Accent",
     "hex": "%FD",
     "iso": "\\\\00fd",
     "octal": "\\375"
@@ -1137,7 +1137,7 @@
     "html": "&thorn;",
     "symbol": "þ",
     "numeric": "&#254;",
-    "description": "small thorn, Icelandic",
+    "title": "Small Thorn, Icelandic",
     "hex": "%FE",
     "iso": "\\\\00fe",
     "octal": "\\376"
@@ -1146,7 +1146,7 @@
     "html": "&yuml;",
     "symbol": "ÿ",
     "numeric": "&#255;",
-    "description": "small y, dieresis or umlaut mark",
+    "title": "Small Y, Dieresis or Umlaut Mark",
     "hex": "%FF",
     "iso": "\\\\00ff",
     "octal": "\\377"
@@ -1155,7 +1155,7 @@
     "html": "&OElig;",
     "symbol": "Œ",
     "numeric": "&#338;",
-    "description": "latin capital ligature oe",
+    "title": "Latin Capital Ligature Oe",
     "hex": "u+0152 ISOlat2",
     "iso": "\\\\0152",
     "octal": "\\u0152"
@@ -1164,7 +1164,7 @@
     "html": "&oelig;",
     "symbol": "œ",
     "numeric": "&#339;",
-    "description": "latin small ligature oe",
+    "title": "Latin Small Ligature Oe",
     "hex": "u+0153 ISOlat2",
     "iso": "\\\\0153",
     "octal": "\\u0153"
@@ -1173,7 +1173,7 @@
     "html": "&Scaron;",
     "symbol": "Š",
     "numeric": "&#352;",
-    "description": "latin capital letter s with caron",
+    "title": "Latin Capital Letter S with Caron",
     "hex": "u+0160 ISOlat2",
     "iso": "\\\\0160",
     "octal": "\\u0160"
@@ -1182,7 +1182,7 @@
     "html": "&scaron;",
     "symbol": "š",
     "numeric": "&#353;",
-    "description": "latin small letter s with caron",
+    "title": "Latin Small Letter S with Caron",
     "hex": "u+0161 ISOlat2",
     "iso": "\\\\0161",
     "octal": "\\u0161"
@@ -1191,7 +1191,7 @@
     "html": "&Yuml;",
     "symbol": "Ÿ",
     "numeric": "&#376;",
-    "description": "latin capital letter y with diaeresis",
+    "title": "Latin Capital Letter Y with Diaeresis",
     "hex": "u+0178 ISOlat2",
     "iso": "\\\\0178",
     "octal": "\\u0178"
@@ -1200,7 +1200,7 @@
     "html": "&fnof;",
     "symbol": "ƒ",
     "numeric": "&#402;",
-    "description": "latin small f with hook",
+    "title": "Latin Small F with Hook",
     "hex": "u+0192 ISOtech",
     "iso": "\\\\0192",
     "octal": "\\u0192"
@@ -1209,7 +1209,7 @@
     "html": "&circ;",
     "symbol": "ˆ",
     "numeric": "",
-    "description": "modifier letter circumflex accent",
+    "title": "Modifier Letter Circumflex Accent",
     "hex": "u+02C6 ISOpub",
     "iso": "\\\\02c6",
     "octal": "\\u02c6"
@@ -1218,7 +1218,7 @@
     "html": "&tilde;",
     "symbol": "˜",
     "numeric": "",
-    "description": "small tilde",
+    "title": "Small Tilde",
     "hex": "u+02DC ISOdia",
     "iso": "\\\\02dc",
     "octal": "\\u02dc"
@@ -1227,7 +1227,7 @@
     "html": "&Alpha;",
     "symbol": "Α",
     "numeric": "&#913;",
-    "description": "greek capital letter alpha",
+    "title": "Greek Capital Letter Alpha",
     "hex": "u+0391",
     "iso": "\\\\0391",
     "octal": "\\u0391"
@@ -1236,7 +1236,7 @@
     "html": "&Beta;",
     "symbol": "Β",
     "numeric": "&#914;",
-    "description": "greek capital letter beta",
+    "title": "Greek Capital Letter Beta",
     "hex": "u+0392",
     "iso": "\\\\0392",
     "octal": "\\u0392"
@@ -1245,7 +1245,7 @@
     "html": "&Gamma;",
     "symbol": "Γ",
     "numeric": "&#915;",
-    "description": "greek capital letter gamma",
+    "title": "Greek Capital Letter Gamma",
     "hex": "u+0393 ISOgrk3",
     "iso": "\\\\0393",
     "octal": "\\u0395"
@@ -1254,7 +1254,7 @@
     "html": "&Delta;",
     "symbol": "Δ",
     "numeric": "&#916;",
-    "description": "greek capital letter delta",
+    "title": "Greek Capital Letter Delta",
     "hex": "u+0394 ISOgrk3",
     "iso": "\\\\0394",
     "octal": "\\u0394"
@@ -1263,7 +1263,7 @@
     "html": "&Epsilon;",
     "symbol": "Ε",
     "numeric": "&#917;",
-    "description": "greek capital letter epsilon",
+    "title": "Greek Capital Letter Epsilon",
     "hex": "u+0395",
     "iso": "\\\\0395",
     "octal": "\\u0395"
@@ -1272,7 +1272,7 @@
     "html": "&Zeta;",
     "symbol": "Ζ",
     "numeric": "&#918;",
-    "description": "greek capital letter zeta",
+    "title": "Greek Capital Letter Zeta",
     "hex": "u+0396",
     "iso": "\\\\0396",
     "octal": "\\u0396"
@@ -1281,7 +1281,7 @@
     "html": "&Eta;",
     "symbol": "Η",
     "numeric": "&#919;",
-    "description": "greek capital letter eta",
+    "title": "Greek Capital Letter Eta",
     "hex": "u+0397",
     "iso": "\\\\0397",
     "octal": "\\u0397"
@@ -1290,7 +1290,7 @@
     "html": "&Theta;",
     "symbol": "Θ",
     "numeric": "&#920;",
-    "description": "greek capital letter theta",
+    "title": "Greek Capital Letter Theta",
     "hex": "u+0398 ISOgrk3",
     "iso": "\\\\0398",
     "octal": "\\u0398"
@@ -1299,7 +1299,7 @@
     "html": "&Iota;",
     "symbol": "Ι",
     "numeric": "&#921;",
-    "description": "greek capital letter iota",
+    "title": "Greek Capital Letter Iota",
     "hex": "u+0399",
     "iso": "\\\\0399",
     "octal": "\\u0399"
@@ -1308,7 +1308,7 @@
     "html": "&Kappa;",
     "symbol": "Κ",
     "numeric": "&#922;",
-    "description": "greek capital letter kappa",
+    "title": "Greek Capital Letter Kappa",
     "hex": "u+039A",
     "iso": "\\\\039a",
     "octal": "\\u039a"
@@ -1317,7 +1317,7 @@
     "html": "&Lambda;",
     "symbol": "Λ",
     "numeric": "&#923;",
-    "description": "greek capital letter lambda",
+    "title": "Greek Capital Letter Lambda",
     "hex": "u+039B ISOgrk3",
     "iso": "\\\\039b",
     "octal": "\\u039b"
@@ -1326,7 +1326,7 @@
     "html": "&Mu;",
     "symbol": "Μ",
     "numeric": "&#924;",
-    "description": "greek capital letter mu",
+    "title": "Greek Capital Letter Mu",
     "hex": "u+039C",
     "iso": "\\\\039c",
     "octal": "\\u039c"
@@ -1335,7 +1335,7 @@
     "html": "&Nu;",
     "symbol": "Ν",
     "numeric": "&#925;",
-    "description": "greek capital letter nu",
+    "title": "Greek Capital Letter Nu",
     "hex": "u+039D",
     "iso": "\\\\039d",
     "octal": "\\u039D"
@@ -1344,7 +1344,7 @@
     "html": "&Xi;",
     "symbol": "Ξ",
     "numeric": "&#926;",
-    "description": "greek capital letter xi",
+    "title": "Greek Capital Letter Xi",
     "hex": "u+039E ISOgrk3",
     "iso": "\\\\039e",
     "octal": "\\u039e"
@@ -1353,7 +1353,7 @@
     "html": "&Omicron;",
     "symbol": "Ο",
     "numeric": "&#927;",
-    "description": "greek capital letter omicron",
+    "title": "Greek Capital Letter Omicron",
     "hex": "u+039F",
     "iso": "\\\\039f",
     "octal": "\\u039f"
@@ -1362,7 +1362,7 @@
     "html": "&Pi;",
     "symbol": "Π",
     "numeric": "&#928;",
-    "description": "greek capital letter pi",
+    "title": "Greek Capital Letter Pi",
     "hex": "u+03A0 ISOgrk3",
     "iso": "\\\\03a0",
     "octal": "\\u03a0"
@@ -1371,7 +1371,7 @@
     "html": "&Rho;",
     "symbol": "Ρ",
     "numeric": "&#929;",
-    "description": "greek capital letter rho",
+    "title": "Greek Capital Letter Rho",
     "hex": "u+03A1",
     "iso": "\\\\03a1",
     "octal": "\\u03a1"
@@ -1380,7 +1380,7 @@
     "html": "&Sigma;",
     "symbol": "Σ",
     "numeric": "&#931;",
-    "description": "greek capital letter sigma",
+    "title": "Greek Capital Letter Sigma",
     "hex": "u+03A3 ISOgrk3",
     "iso": "\\\\03a3",
     "octal": "\\u03A3"
@@ -1389,7 +1389,7 @@
     "html": "&Tau;",
     "symbol": "Τ",
     "numeric": "&#932;",
-    "description": "greek capital letter tau",
+    "title": "Greek Capital Letter Tau",
     "hex": "u+03A4",
     "iso": "\\\\03a4",
     "octal": "\\u03A4"
@@ -1398,7 +1398,7 @@
     "html": "&Upsilon;",
     "symbol": "Υ",
     "numeric": "&#933;",
-    "description": "greek capital letter upsilon",
+    "title": "Greek Capital Letter Upsilon",
     "hex": "u+03A5 ISOgrk3",
     "iso": "\\\\03a5",
     "octal": "\\u03A5"
@@ -1407,7 +1407,7 @@
     "html": "&Phi;",
     "symbol": "Φ",
     "numeric": "&#934;",
-    "description": "greek capital letter phi",
+    "title": "Greek Capital Letter Phi",
     "hex": "u+03A6 ISOgrk3",
     "iso": "\\\\03a6",
     "octal": "\\u03A6"
@@ -1416,7 +1416,7 @@
     "html": "&Chi;",
     "symbol": "Χ",
     "numeric": "&#935;",
-    "description": "greek capital letter chi",
+    "title": "Greek Capital Letter Chi",
     "hex": "u+03A7",
     "iso": "\\\\03a7",
     "octal": "\\u03A7"
@@ -1425,7 +1425,7 @@
     "html": "&Psi;",
     "symbol": "Ψ",
     "numeric": "&#936;",
-    "description": "greek capital letter psi",
+    "title": "Greek Capital Letter Psi",
     "hex": "u+03A8 ISOgrk3",
     "iso": "\\\\03a8",
     "octal": "\\u03A8"
@@ -1434,7 +1434,7 @@
     "html": "&Omega;",
     "symbol": "Ω",
     "numeric": "&#937;",
-    "description": "greek capital letter omega",
+    "title": "Greek Capital Letter Omega",
     "hex": "u+03A9 ISOgrk3",
     "iso": "\\\\03a9",
     "octal": "\\u03A9"
@@ -1443,7 +1443,7 @@
     "html": "&alpha;",
     "symbol": "α",
     "numeric": "&#945;",
-    "description": "greek small letter alpha",
+    "title": "Greek Small Letter Alpha",
     "hex": "u+03B1 ISOgrk3",
     "iso": "\\\\03b1",
     "octal": "\\u03b1"
@@ -1452,7 +1452,7 @@
     "html": "&beta;",
     "symbol": "β",
     "numeric": "&#946;",
-    "description": "greek small letter beta",
+    "title": "Greek Small Letter Beta",
     "hex": "u+03B2 ISOgrk3",
     "iso": "\\\\03b2",
     "octal": "\\u03b2"
@@ -1461,7 +1461,7 @@
     "html": "&gamma;",
     "symbol": "γ",
     "numeric": "&#947;",
-    "description": "greek small letter gamma",
+    "title": "Greek Small Letter Gamma",
     "hex": "u+03B3 ISOgrk3",
     "iso": "\\\\03b3",
     "octal": "\\u03b3"
@@ -1470,7 +1470,7 @@
     "html": "&delta;",
     "symbol": "δ",
     "numeric": "&#948;",
-    "description": "greek small letter delta",
+    "title": "Greek Small Letter Delta",
     "hex": "u+03B4 ISOgrk3",
     "iso": "\\\\03b4",
     "octal": "\\u03b4"
@@ -1479,7 +1479,7 @@
     "html": "&epsilon;",
     "symbol": "ε",
     "numeric": "&#949;",
-    "description": "greek small letter epsilon",
+    "title": "Greek Small Letter Epsilon",
     "hex": "u+03B5 ISOgrk3",
     "iso": "\\\\03b5",
     "octal": "\\u03b5"
@@ -1488,7 +1488,7 @@
     "html": "&zeta;",
     "symbol": "ζ",
     "numeric": "&#950;",
-    "description": "greek small letter zeta",
+    "title": "Greek Small Letter Zeta",
     "hex": "u+03B6 ISOgrk3",
     "iso": "\\\\03b6",
     "octal": "\\u03b6"
@@ -1497,7 +1497,7 @@
     "html": "&eta;",
     "symbol": "η",
     "numeric": "&#951;",
-    "description": "greek small letter eta",
+    "title": "Greek Small Letter Eta",
     "hex": "u+03B7 ISOgrk3",
     "iso": "\\\\03b7",
     "octal": "\\u03b7"
@@ -1506,7 +1506,7 @@
     "html": "&theta;",
     "symbol": "θ",
     "numeric": "&#952;",
-    "description": "greek small letter theta",
+    "title": "Greek Small Letter Theta",
     "hex": "u+03B8 ISOgrk3",
     "iso": "\\\\03b8",
     "octal": "\\u03b8"
@@ -1515,7 +1515,7 @@
     "html": "&iota;",
     "symbol": "ι",
     "numeric": "&#953;",
-    "description": "greek small letter iota",
+    "title": "Greek Small Letter Iota",
     "hex": "u+03B9 ISOgrk3",
     "iso": "\\\\03b9",
     "octal": "\\u03b9"
@@ -1524,7 +1524,7 @@
     "html": "&kappa;",
     "symbol": "κ",
     "numeric": "&#954;",
-    "description": "greek small letter kappa",
+    "title": "Greek Small Letter Kappa",
     "hex": "u+03BA ISOgrk3",
     "iso": "\\\\03ba",
     "octal": "\\u03ba"
@@ -1533,7 +1533,7 @@
     "html": "&lambda;",
     "symbol": "λ",
     "numeric": "&#955;",
-    "description": "greek small letter lambda",
+    "title": "Greek Small Letter Lambda",
     "hex": "u+03BB ISOgrk3",
     "iso": "\\\\03bb",
     "octal": "\\u03bb"
@@ -1542,7 +1542,7 @@
     "html": "&mu;",
     "symbol": "μ",
     "numeric": "&#956;",
-    "description": "greek small letter mu",
+    "title": "Greek Small Letter Mu",
     "hex": "u+03BC ISOgrk3",
     "iso": "\\\\03bc",
     "octal": "\\u03bc"
@@ -1551,7 +1551,7 @@
     "html": "&nu;",
     "symbol": "ν",
     "numeric": "&#957;",
-    "description": "greek small letter nu",
+    "title": "Greek Small Letter Nu",
     "hex": "u+03BD ISOgrk3",
     "iso": "\\\\03bd",
     "octal": "\\u03bd"
@@ -1560,7 +1560,7 @@
     "html": "&xi;",
     "symbol": "ξ",
     "numeric": "&#958;",
-    "description": "greek small letter xi",
+    "title": "Greek Small Letter Xi",
     "hex": "u+03BE ISOgrk3",
     "iso": "\\\\03be",
     "octal": "\\u03be"
@@ -1569,7 +1569,7 @@
     "html": "&omicron;",
     "symbol": "ο",
     "numeric": "&#959;",
-    "description": "greek small letter omicron",
+    "title": "Greek Small Letter Omicron",
     "hex": "u+03BF NEW",
     "iso": "\\\\03bf",
     "octal": "\\u03bf"
@@ -1578,7 +1578,7 @@
     "html": "&pi;",
     "symbol": "π",
     "numeric": "&#960;",
-    "description": "greek small letter pi",
+    "title": "Greek Small Letter Pi",
     "hex": "u+03C0 ISOgrk3",
     "iso": "\\\\03c0",
     "octal": "\\u03c0"
@@ -1587,7 +1587,7 @@
     "html": "&rho;",
     "symbol": "ρ",
     "numeric": "&#961;",
-    "description": "greek small letter rho",
+    "title": "Greek Small Letter Rho",
     "hex": "u+03C1 ISOgrk3",
     "iso": "\\\\03c1",
     "octal": "\\u03c1"
@@ -1596,7 +1596,7 @@
     "html": "&sigmaf;",
     "symbol": "ς",
     "numeric": "&#962;",
-    "description": "greek small letter final sigma",
+    "title": "Greek Small Letter Final Sigma",
     "hex": "u+03C2 ISOgrk3",
     "iso": "\\\\03C2",
     "octal": "\\u03c2"
@@ -1605,7 +1605,7 @@
     "html": "&sigma;",
     "symbol": "σ",
     "numeric": "&#963;",
-    "description": "greek small letter sigma",
+    "title": "Greek Small Letter Sigma",
     "hex": "u+03C3 ISOgrk3",
     "iso": "\\\\03C3",
     "octal": "\\u03c3"
@@ -1614,7 +1614,7 @@
     "html": "&tau;",
     "symbol": "τ",
     "numeric": "&#964;",
-    "description": "greek small letter tau",
+    "title": "Greek Small Letter Tau",
     "hex": "u+03C4 ISOgrk3",
     "iso": "\\\\03C4",
     "octal": "\\u03c4"
@@ -1623,7 +1623,7 @@
     "html": "&upsilon;",
     "symbol": "υ",
     "numeric": "&#965;",
-    "description": "greek small letter upsilon",
+    "title": "Greek Small Letter Upsilon",
     "hex": "u+03C5 ISOgrk3",
     "iso": "\\\\03C5",
     "octal": "\\u03c5"
@@ -1632,7 +1632,7 @@
     "html": "&phi;",
     "symbol": "φ",
     "numeric": "&#966;",
-    "description": "greek small letter phi",
+    "title": "Greek Small Letter Phi",
     "hex": "u+03C6 ISOgrk3",
     "iso": "\\\\03C6",
     "octal": "\\03c6"
@@ -1641,7 +1641,7 @@
     "html": "&chi;",
     "symbol": "χ",
     "numeric": "&#967;",
-    "description": "greek small letter chi",
+    "title": "Greek Small Letter Chi",
     "hex": "u+03C7 ISOgrk3",
     "iso": "\\\\03C7",
     "octal": "\\u03c7"
@@ -1650,7 +1650,7 @@
     "html": "&psi;",
     "symbol": "ψ",
     "numeric": "&#968;",
-    "description": "greek small letter psi",
+    "title": "Greek Small Letter Psi",
     "hex": "u+03C8 ISOgrk3",
     "iso": "\\\\03C8",
     "octal": "\\u03c8"
@@ -1659,7 +1659,7 @@
     "html": "&omega;",
     "symbol": "ω",
     "numeric": "&#969;",
-    "description": "greek small letter omega",
+    "title": "Greek Small Letter Omega",
     "hex": "u+03C9 ISOgrk3",
     "iso": "\\\\03C9",
     "octal": "\\u03c9"
@@ -1668,7 +1668,7 @@
     "html": "&thetasym;",
     "symbol": "ϑ",
     "numeric": "&#977;",
-    "description": "greek small letter theta symbol",
+    "title": "Greek Small Letter Theta Symbol",
     "hex": "u+03D1 NEW",
     "iso": "\\\\03D1",
     "octal": "\\u03D1"
@@ -1677,7 +1677,7 @@
     "html": "&upsih;",
     "symbol": "ϒ",
     "numeric": "&#978;",
-    "description": "greek upsilon with hook symbol",
+    "title": "Greek Upsilon with Hook Symbol",
     "hex": "u+03D2 NEW",
     "iso": "\\\\03D2",
     "octal": "\\u03D2"
@@ -1686,7 +1686,7 @@
     "html": "&piv;",
     "symbol": "ϖ",
     "numeric": "&#982;",
-    "description": "greek pi symbol",
+    "title": "Greek Pi Symbol",
     "hex": "u+03D6 ISOgrk3",
     "iso": "\\\\03D6",
     "octal": "\\u03D6"
@@ -1695,7 +1695,7 @@
     "html": "&ensp;",
     "symbol": "",
     "numeric": "&#8194;",
-    "description": "en space",
+    "title": "En Space",
     "hex": "u+2002 ISOpub",
     "iso": "\\\\2002",
     "octal": "\\u2002"
@@ -1704,7 +1704,7 @@
     "html": "&emsp;",
     "symbol": "",
     "numeric": "&#8195;",
-    "description": "em space",
+    "title": "Em Space",
     "hex": "u+2003 ISOpub",
     "iso": "\\\\2003",
     "octal": "\\u2003"
@@ -1713,7 +1713,7 @@
     "html": "&thinsp;",
     "symbol": "",
     "numeric": "&#8201;",
-    "description": "thin space",
+    "title": "Thin Space",
     "hex": "u+2009 ISOpub",
     "iso": "\\\\2009",
     "octal": "\\u2009"
@@ -1722,7 +1722,7 @@
     "html": "&zwnj;",
     "symbol": "‌",
     "numeric": "&#8204;",
-    "description": "zero width non-joiner",
+    "title": "Zero Width Non-Joiner",
     "hex": "u+200C NEW RFC 2070",
     "iso": "\\\\200C",
     "octal": "\\u200C"
@@ -1731,7 +1731,7 @@
     "html": "&zwj;",
     "symbol": "‍",
     "numeric": "&#8205;",
-    "description": "zero width joiner",
+    "title": "Zero Width Joiner",
     "hex": "u+200D NEW RFC 2070",
     "iso": "\\\\200D",
     "octal": "\\u200d"
@@ -1740,7 +1740,7 @@
     "html": "&lrm;",
     "symbol": "‎",
     "numeric": "&#8206;",
-    "description": "left-to-right mark",
+    "title": "Left-to-Right Mark",
     "hex": "u+200E NEW RFC 2070",
     "iso": "\\\\200E",
     "octal": "\\u200e"
@@ -1749,7 +1749,7 @@
     "html": "&rlm;",
     "symbol": "‏",
     "numeric": "&#8207;",
-    "description": "right-to-left mark",
+    "title": "Right-to-Left Mark",
     "hex": "u+200F NEW RFC 2070",
     "iso": "\\\\200F",
     "octal": "\\u200f"
@@ -1758,7 +1758,7 @@
     "html": "&ndash;",
     "symbol": "–",
     "numeric": "&#8211;",
-    "description": "en dash",
+    "title": "En Dash",
     "hex": "u+2013 ISOpub",
     "iso": "\\\\2013",
     "octal": "\\u2013"
@@ -1767,7 +1767,7 @@
     "html": "&mdash;",
     "symbol": "—",
     "numeric": "&#8212;",
-    "description": "em dash",
+    "title": "Em Dash",
     "hex": "u+2014 ISOpub",
     "iso": "\\\\2014",
     "octal": "\\u2014"
@@ -1776,7 +1776,7 @@
     "html": "&lsquo;",
     "symbol": "‘",
     "numeric": "&#8216;",
-    "description": "left single quotation mark",
+    "title": "Left Single Quotation Mark",
     "hex": "u+2018 ISOnum",
     "iso": "\\\\2018",
     "octal": "\\u2018"
@@ -1785,7 +1785,7 @@
     "html": "&rsquo;",
     "symbol": "’",
     "numeric": "&#8217;",
-    "description": "right single quotation mark",
+    "title": "Right Single Quotation Mark",
     "hex": "u+2019 ISOnum",
     "iso": "\\\\2019",
     "octal": "\\u2019"
@@ -1794,7 +1794,7 @@
     "html": "&sbquo;",
     "symbol": "‚",
     "numeric": "&#8218;",
-    "description": "single low-9 quotation mark",
+    "title": "Single Low-9 Quotation Mark",
     "hex": "u+201A NEW",
     "iso": "\\\\201A",
     "octal": "\\u201a"
@@ -1803,7 +1803,7 @@
     "html": "&ldquo;",
     "symbol": "“",
     "numeric": "&#8220;",
-    "description": "left double quotation mark",
+    "title": "Left Double Quotation Mark",
     "hex": "u+201C ISOnum",
     "iso": "\\\\201C",
     "octal": "\\u201c"
@@ -1812,7 +1812,7 @@
     "html": "&rdquo;",
     "symbol": "”",
     "numeric": "&#8221;",
-    "description": "right double quotation mark",
+    "title": "Right Double Quotation Mark",
     "hex": "u+201D ISOnum",
     "iso": "\\\\201D",
     "octal": "\\u201d"
@@ -1821,7 +1821,7 @@
     "html": "&bdquo;",
     "symbol": "„",
     "numeric": "&#8222;",
-    "description": "double low-9 quotation mark",
+    "title": "Double Low-9 Quotation Mark",
     "hex": "u+201E NEW",
     "iso": "\\\\201E",
     "octal": "\\u201e"
@@ -1830,7 +1830,7 @@
     "html": "&dagger;",
     "symbol": "†",
     "numeric": "&#8224;",
-    "description": "dagger",
+    "title": "Dagger",
     "hex": "u+2020 ISOpub",
     "iso": "\\\\2020",
     "octal": "\\u2020"
@@ -1839,7 +1839,7 @@
     "html": "&Dagger;",
     "symbol": "‡",
     "numeric": "&#8225;",
-    "description": "double dagger",
+    "title": "Double Dagger",
     "hex": "u+2021 ISOpub",
     "iso": "\\\\2021",
     "octal": "\\u2021"
@@ -1848,7 +1848,7 @@
     "html": "&permil;",
     "symbol": "‰",
     "numeric": "&#8240;",
-    "description": "per mille sign",
+    "title": "Per Mille Sign",
     "hex": "u+2030 ISOtech",
     "iso": "\\\\2030",
     "octal": "\\u2030"
@@ -1857,7 +1857,7 @@
     "html": "&lsaquo;",
     "symbol": "‹",
     "numeric": "&#8249;",
-    "description": "single left-pointing angle quotation mark",
+    "title": "Single Left-Pointing Angle Quotation Mark",
     "hex": "u+2039 ISO proposed",
     "iso": "\\\\2039",
     "octal": "\\u2039"
@@ -1866,7 +1866,7 @@
     "html": "&rsaquo;",
     "symbol": "›",
     "numeric": "&#8250;",
-    "description": "single right-pointing angle quotation mark",
+    "title": "Single Right-Pointing Angle Quotation Mark",
     "hex": "u+203A ISO proposed",
     "iso": "\\\\203A",
     "octal": "\\u203a"
@@ -1875,7 +1875,7 @@
     "html": "&bull;",
     "symbol": "•",
     "numeric": "&#8226;",
-    "description": "bullet, aka. black small circle",
+    "title": "Bullet, Aka. Black Small Circle",
     "hex": "u+2022 ISOpub",
     "iso": "\\\\2022",
     "octal": "\\u2219"
@@ -1884,7 +1884,7 @@
     "html": "&hellip;",
     "symbol": "…",
     "numeric": "&#8230;",
-    "description": "horizontal ellipsis, aka three dot leader",
+    "title": "Horizontal Ellipsis, Aka Three Dot Leader",
     "hex": "u+2026 ISOpub",
     "iso": "\\\\2026",
     "octal": "\\u2026"
@@ -1893,7 +1893,7 @@
     "html": "&prime;",
     "symbol": "′",
     "numeric": "&#8242;",
-    "description": "prime, aka minutes, aka feet",
+    "title": "Prime, Aka Minutes, Aka Feet",
     "hex": "u+2032 ISOtech",
     "iso": "\\\\2032",
     "octal": "\\u2032"
@@ -1902,7 +1902,7 @@
     "html": "&Prime;",
     "symbol": "″",
     "numeric": "&#8243;",
-    "description": "double prime, aka seconds, aka inches",
+    "title": "Double Prime, Aka Seconds, Aka Inches",
     "hex": "u+2033 ISOtech",
     "iso": "\\\\2033",
     "octal": "\\u2033"
@@ -1911,7 +1911,7 @@
     "html": "&oline;",
     "symbol": "‾",
     "numeric": "&#8254;",
-    "description": "overline, aka spacing overscore",
+    "title": "Overline, Aka Spacing Overscore",
     "hex": "u+203E NEW",
     "iso": "\\\\203E",
     "octal": "\\u203e"
@@ -1920,7 +1920,7 @@
     "html": "&frasl;",
     "symbol": "⁄",
     "numeric": "&#8260;",
-    "description": "fraction slash",
+    "title": "Fraction Slash",
     "hex": "u+2044 NEW",
     "iso": "\\\\2044",
     "octal": "\\u8260"
@@ -1929,7 +1929,7 @@
     "html": "&weierp;",
     "symbol": "℘",
     "numeric": "&#8472;",
-    "description": "script capital P, aka power set, aka Weierstrass p",
+    "title": "Script Capital P, Aka Power Set, Aka Weierstrass P",
     "hex": "u+2118 ISOamso",
     "iso": "\\\\2118",
     "octal": "\\u2118"
@@ -1938,7 +1938,7 @@
     "html": "&image;",
     "symbol": "ℑ",
     "numeric": "&#8465;",
-    "description": "blackletter capital I, aka imaginary part",
+    "title": "Blackletter Capital I, Aka Imaginary Part",
     "hex": "u+2111 ISOamso",
     "iso": "\\\\2111",
     "octal": "\\u2111"
@@ -1947,7 +1947,7 @@
     "html": "&real;",
     "symbol": "ℜ",
     "numeric": "&#8476;",
-    "description": "blackletter capital R, aka real part symbol",
+    "title": "Blackletter Capital R, Aka Real Part Symbol",
     "hex": "u+211C ISOamso",
     "iso": "\\\\211C",
     "octal": "\\u211c"
@@ -1956,7 +1956,7 @@
     "html": "&trade;",
     "symbol": "™",
     "numeric": "&#8482;",
-    "description": "trade mark sign",
+    "title": "Trade Mark Sign",
     "hex": "u+2122 ISOnum",
     "iso": "\\\\2122",
     "octal": "\\u2122"
@@ -1965,7 +1965,7 @@
     "html": "&alefsym;",
     "symbol": "ℵ",
     "numeric": "&#8501;",
-    "description": "alef symbol",
+    "title": "Alef Symbol",
     "hex": "u+2135 NEW",
     "iso": "\\\\2135",
     "octal": "\\u"
@@ -1974,7 +1974,7 @@
     "html": "&larr;",
     "symbol": "←",
     "numeric": "&#8592;",
-    "description": "leftwards arrow",
+    "title": "Leftwards Arrow",
     "hex": "u+2190 ISOnum",
     "iso": "\\\\2190",
     "octal": "\\u2190"
@@ -1983,7 +1983,7 @@
     "html": "&uarr;",
     "symbol": "↑",
     "numeric": "&#8593;",
-    "description": "upwards arrow",
+    "title": "Upwards Arrow",
     "hex": "u+2191 ISOnum",
     "iso": "\\\\2191",
     "octal": "\\u2191"
@@ -1992,7 +1992,7 @@
     "html": "&rarr;",
     "symbol": "→",
     "numeric": "&#8594;",
-    "description": "rightwards arrow",
+    "title": "Rightwards Arrow",
     "hex": "u+2192 ISOnum",
     "iso": "\\\\2192",
     "octal": "\\u2192"
@@ -2001,7 +2001,7 @@
     "html": "&darr;",
     "symbol": "↓",
     "numeric": "&#8595;",
-    "description": "downwards arrow",
+    "title": "Downwards Arrow",
     "hex": "u+2193 ISOnum",
     "iso": "\\\\2193",
     "octal": "\\u2193"
@@ -2010,7 +2010,7 @@
     "html": "&harr;",
     "symbol": "↔",
     "numeric": "&#8596;",
-    "description": "left right arrow",
+    "title": "Left Right Arrow",
     "hex": "u+2194 ISOamsa",
     "iso": "\\\\2194",
     "octal": "\\u2194"
@@ -2019,7 +2019,7 @@
     "html": "&crarr;",
     "symbol": "↵",
     "numeric": "&#8629;",
-    "description": "downwards arrow with corner leftwards, aka carriage return",
+    "title": "Downwards Arrow with Corner Leftwards, Aka Carriage Return",
     "hex": "u+21B5 NEW",
     "iso": "\\\\21B5",
     "octal": "\\u21b5"
@@ -2028,7 +2028,7 @@
     "html": "&lArr;",
     "symbol": "⇐",
     "numeric": "&#8656;",
-    "description": "leftwards double arrow can be used for ‘is implied by’",
+    "title": "Leftwards Double Arrow Can Be Used for ‘Is Implied By’",
     "hex": "u+21D0 ISOtech",
     "iso": "\\\\21D0",
     "octal": "\\u21d0"
@@ -2037,7 +2037,7 @@
     "html": "&uArr;",
     "symbol": "⇑",
     "numeric": "&#8657;",
-    "description": "upwards double arrow",
+    "title": "Upwards Double Arrow",
     "hex": "u+21D1 ISOamsa",
     "iso": "\\\\21D1",
     "octal": "\\u21d1"
@@ -2046,7 +2046,7 @@
     "html": "&rArr;",
     "symbol": "⇒",
     "numeric": "&#8658;",
-    "description": "rightwards double arrow",
+    "title": "Rightwards Double Arrow",
     "hex": "u+21D2 ISOtech",
     "iso": "\\\\21D2",
     "octal": "\\u21d2"
@@ -2055,7 +2055,7 @@
     "html": "&dArr;",
     "symbol": "⇓",
     "numeric": "&#8659;",
-    "description": "downwards double arrow",
+    "title": "Downwards Double Arrow",
     "hex": "u+21D3 ISOamsa",
     "iso": "\\\\21D3",
     "octal": "\\ud1d3"
@@ -2064,7 +2064,7 @@
     "html": "&hArr;",
     "symbol": "⇔",
     "numeric": "&#8660;",
-    "description": "left right double arrow",
+    "title": "Left Right Double Arrow",
     "hex": "u+21D4 ISOamsa",
     "iso": "\\\\21D4",
     "octal": "\\u21d4"
@@ -2073,7 +2073,7 @@
     "html": "",
     "symbol": "◄",
     "numeric": "&#9668;",
-    "description": "black left pointing triangle",
+    "title": "Black Left Pointing Triangle",
     "hex": "U+25C0",
     "iso": "\\\\25C0",
     "octal": "\\u25c0"
@@ -2082,7 +2082,7 @@
     "html": "",
     "symbol": "►",
     "numeric": "&#9658;",
-    "description": "black right pointing triangle",
+    "title": "Black Right Pointing Triangle",
     "hex": "u+25B6",
     "iso": "\\\\25b6",
     "octal": "\\u25b6"
@@ -2091,7 +2091,7 @@
     "html": "",
     "symbol": "▲",
     "numeric": "&#9650;",
-    "description": "black up pointing triangle",
+    "title": "Black up Pointing Triangle",
     "hex": "u+25B2",
     "iso": "\\\\25b2",
     "octal": "\\25b2"
@@ -2100,7 +2100,7 @@
     "html": "",
     "symbol": "▼",
     "numeric": "&#9660;",
-    "description": "black down pointing triangle",
+    "title": "Black Down Pointing Triangle",
     "hex": "u+25BC",
     "iso": "\\\\25bc",
     "octal": "\\25bc"
@@ -2109,7 +2109,7 @@
     "html": "&forall;",
     "symbol": "∀",
     "numeric": "&#8704;",
-    "description": "for all",
+    "title": "For All",
     "hex": "u+2200 ISOtech",
     "iso": "\\\\2200",
     "octal": "\\u2200"
@@ -2118,7 +2118,7 @@
     "html": "&part;",
     "symbol": "∂",
     "numeric": "&#8706;",
-    "description": "partial differential",
+    "title": "Partial Differential",
     "hex": "u+2202 ISOtech",
     "iso": "\\\\2202",
     "octal": "\\u2202"
@@ -2127,7 +2127,7 @@
     "html": "&exist;",
     "symbol": "∃",
     "numeric": "&#8707;",
-    "description": "there exists",
+    "title": "There Exists",
     "hex": "u+2203 ISOtech",
     "iso": "\\\\2203",
     "octal": "\\u2203"
@@ -2136,7 +2136,7 @@
     "html": "&empty;",
     "symbol": "∅",
     "numeric": "&#8709;",
-    "description": "empty set, aka null set, aka diameter",
+    "title": "Empty Set, Aka Null Set, Aka Diameter",
     "hex": "u+2205 ISOamso",
     "iso": "\\\\2205",
     "octal": "\\u2205"
@@ -2145,7 +2145,7 @@
     "html": "&nabla;",
     "symbol": "∇",
     "numeric": "&#8711;",
-    "description": "nabla, aka bakad difference",
+    "title": "Nabla, Aka Bakad Difference",
     "hex": "u+2207 ISOtech",
     "iso": "\\\\2207",
     "octal": "\\u2207"
@@ -2154,7 +2154,7 @@
     "html": "&isin;",
     "symbol": "∈",
     "numeric": "&#8712;",
-    "description": "element of",
+    "title": "Element Of",
     "hex": "u+2208 ISOtech",
     "iso": "\\\\2208",
     "octal": "\\u2208"
@@ -2163,7 +2163,7 @@
     "html": "&notin;",
     "symbol": "∉",
     "numeric": "&#8713;",
-    "description": "not an element of",
+    "title": "Not an Element Of",
     "hex": "u+2209 ISOtech",
     "iso": "\\\\2209",
     "octal": "\\u2209"
@@ -2172,7 +2172,7 @@
     "html": "&ni;",
     "symbol": "∋",
     "numeric": "&#8715;",
-    "description": "contains as member",
+    "title": "Contains as Member",
     "hex": "u+220B ISOtech",
     "iso": "\\\\220B",
     "octal": "\\u220b"
@@ -2181,7 +2181,7 @@
     "html": "&prod;",
     "symbol": "∏",
     "numeric": "&#8719;",
-    "description": "n-ary product, aka product sign",
+    "title": "N-Ary Product, Aka Product Sign",
     "hex": "u+220F ISOamsb",
     "iso": "\\\\220F",
     "octal": "\\u03a0"
@@ -2190,7 +2190,7 @@
     "html": "&sum;",
     "symbol": "∑",
     "numeric": "&#8721;",
-    "description": "n-ary sumation",
+    "title": "N-Ary Sumation",
     "hex": "u+2211 ISOamsb",
     "iso": "\\\\2211",
     "octal": "\\u03a3"
@@ -2199,7 +2199,7 @@
     "html": "&minus;",
     "symbol": "−",
     "numeric": "&#8722;",
-    "description": "minus sign",
+    "title": "Minus Sign",
     "hex": "u+2212 ISOtech",
     "iso": "\\\\2212",
     "octal": "\\u2212"
@@ -2208,7 +2208,7 @@
     "html": "&lowast;",
     "symbol": "∗",
     "numeric": "&#8727;",
-    "description": "asterisk operator",
+    "title": "Asterisk Operator",
     "hex": "u+2217 ISOtech",
     "iso": "\\\\2217",
     "octal": "\\u2217"
@@ -2217,7 +2217,7 @@
     "html": "&radic;",
     "symbol": "√",
     "numeric": "&#8730;",
-    "description": "square root, aka radical sign",
+    "title": "Square Root, Aka Radical Sign",
     "hex": "u+221A ISOtech",
     "iso": "\\\\221A",
     "octal": "\\u221a"
@@ -2226,7 +2226,7 @@
     "html": "&prop;",
     "symbol": "∝",
     "numeric": "&#8733;",
-    "description": "proportional to",
+    "title": "Proportional To",
     "hex": "u+221D ISOtech",
     "iso": "\\\\221D",
     "octal": "\\u221d"
@@ -2235,7 +2235,7 @@
     "html": "&infin;",
     "symbol": "∞",
     "numeric": "&#8734;",
-    "description": "infinity",
+    "title": "Infinity",
     "hex": "u+221E ISOtech",
     "iso": "\\\\221E",
     "octal": "\\u221e"
@@ -2244,7 +2244,7 @@
     "html": "&ang;",
     "symbol": "∠",
     "numeric": "&#8736;",
-    "description": "angle",
+    "title": "Angle",
     "hex": "u+2220 ISOamso",
     "iso": "\\\\2220",
     "octal": "\\u2220"
@@ -2253,7 +2253,7 @@
     "html": "&and;",
     "symbol": "⊥",
     "numeric": "&#8869;",
-    "description": "logical and, aka wedge",
+    "title": "Logical and, Aka Wedge",
     "hex": "u+2227 ISOtech",
     "iso": "\\\\2227",
     "octal": "\\u2227"
@@ -2262,7 +2262,7 @@
     "html": "&or;",
     "symbol": "⊦",
     "numeric": "&#8870;",
-    "description": "logical or, aka vee",
+    "title": "Logical or, Aka Vee",
     "hex": "u+2228 ISOtech",
     "iso": "\\\\2228",
     "octal": "\\u2228"
@@ -2271,7 +2271,7 @@
     "html": "&cap;",
     "symbol": "∩",
     "numeric": "&#8745;",
-    "description": "intersection, aka cap",
+    "title": "Intersection, Aka Cap",
     "hex": "u+2229 ISOtech",
     "iso": "\\\\2229",
     "octal": "\\u2229"
@@ -2280,7 +2280,7 @@
     "html": "&cup;",
     "symbol": "∪",
     "numeric": "&#8746;",
-    "description": "union, aka cup",
+    "title": "Union, Aka Cup",
     "hex": "u+222A ISOtech",
     "iso": "\\\\222A",
     "octal": "\\u222a"
@@ -2289,7 +2289,7 @@
     "html": "&int;",
     "symbol": "∫",
     "numeric": "&#8747;",
-    "description": "integral",
+    "title": "Integral",
     "hex": "u+222B ISOtech",
     "iso": "\\\\222B",
     "octal": "\\u222b"
@@ -2298,7 +2298,7 @@
     "html": "&there4;",
     "symbol": "∴",
     "numeric": "&#8756;",
-    "description": "therefore",
+    "title": "Therefore",
     "hex": "u+2234 ISOtech",
     "iso": "\\\\2234",
     "octal": "\\u2234"
@@ -2307,7 +2307,7 @@
     "html": "&sim;",
     "symbol": "∼",
     "numeric": "&#8764;",
-    "description": "tilde",
+    "title": "Tilde",
     "hex": "u+223C ISOtech",
     "iso": "\\\\223C",
     "octal": "\\u223c"
@@ -2316,7 +2316,7 @@
     "html": "&cong;",
     "symbol": "≅",
     "numeric": "&#8773;",
-    "description": "approximately equal to",
+    "title": "Approximately Equal To",
     "hex": "u+2245 ISOtech",
     "iso": "\\\\2245",
     "octal": "\\u2245"
@@ -2325,7 +2325,7 @@
     "html": "&asymp;",
     "symbol": "≈",
     "numeric": "&#8776;",
-    "description": "almost equal to, aka asymptotic to",
+    "title": "Almost Equal to, Aka Asymptotic To",
     "hex": "u+2248 ISOamsr",
     "iso": "\\\\2248",
     "octal": "\\u2248"
@@ -2334,7 +2334,7 @@
     "html": "&ne;",
     "symbol": "≠",
     "numeric": "&#8800;",
-    "description": "not equal to",
+    "title": "Not Equal To",
     "hex": "u+2260 ISOtech",
     "iso": "\\\\2260",
     "octal": "\\u2260"
@@ -2343,7 +2343,7 @@
     "html": "&equiv;",
     "symbol": "≡",
     "numeric": "&#8801;",
-    "description": "identical to",
+    "title": "Identical To",
     "hex": "u+2261 ISOtech",
     "iso": "\\\\2261",
     "octal": "\\u2261"
@@ -2352,7 +2352,7 @@
     "html": "&le;",
     "symbol": "≤",
     "numeric": "&#8804;",
-    "description": "less-than or equal to",
+    "title": "Less-than or Equal To",
     "hex": "u+2264 ISOtech",
     "iso": "\\\\2264",
     "octal": "\\u2264"
@@ -2361,7 +2361,7 @@
     "html": "&ge;",
     "symbol": "≥",
     "numeric": "&#8805;",
-    "description": "greater-than or equal to",
+    "title": "Greater-than or Equal To",
     "hex": "u+2265 ISOtech",
     "iso": "\\\\2265",
     "octal": "\\u2265"
@@ -2370,7 +2370,7 @@
     "html": "&sub;",
     "symbol": "⊂",
     "numeric": "&#8834;",
-    "description": "subset of",
+    "title": "Subset Of",
     "hex": "u+2282 ISOtech",
     "iso": "\\\\2282",
     "octal": "\\u2282"
@@ -2379,7 +2379,7 @@
     "html": "&sup;",
     "symbol": "⊃",
     "numeric": "&#8835;",
-    "description": "superset of",
+    "title": "Superset Of",
     "hex": "u+2283 ISOtech",
     "iso": "\\\\2283",
     "octal": "\\u2283"
@@ -2388,7 +2388,7 @@
     "html": "&nsub;",
     "symbol": "⊄",
     "numeric": "&#8836;",
-    "description": "not a subset of",
+    "title": "Not a Subset Of",
     "hex": "u+2284 ISOamsn",
     "iso": "\\\\2284",
     "octal": "\\u2284"
@@ -2397,7 +2397,7 @@
     "html": "&sube;",
     "symbol": "⊆",
     "numeric": "&#8838;",
-    "description": "subset of or equal to",
+    "title": "Subset of or Equal To",
     "hex": "u+2286 ISOtech",
     "iso": "\\\\2286",
     "octal": "\\u2286"
@@ -2406,7 +2406,7 @@
     "html": "&supe;",
     "symbol": "⊇",
     "numeric": "&#8839;",
-    "description": "superset of or equal to",
+    "title": "Superset of or Equal To",
     "hex": "u+2287 ISOtech",
     "iso": "\\\\2287",
     "octal": "\\u2287"
@@ -2415,7 +2415,7 @@
     "html": "&oplus;",
     "symbol": "⊕",
     "numeric": "&#8853;",
-    "description": "circled plus, aka direct sum",
+    "title": "Circled Plus, Aka Direct Sum",
     "hex": "u+2295 ISOamsb",
     "iso": "\\\\2295",
     "octal": "\\u2295"
@@ -2424,7 +2424,7 @@
     "html": "&otimes;",
     "symbol": "⊗",
     "numeric": "&#8855;",
-    "description": "circled times, aka vector product",
+    "title": "Circled Times, Aka Vector Product",
     "hex": "u+2297 ISOamsb",
     "iso": "\\\\2297",
     "octal": "\\u2297"
@@ -2433,7 +2433,7 @@
     "html": "&perp;",
     "symbol": "⊥",
     "numeric": "&#8869;",
-    "description": "up tack",
+    "title": "Up Tack",
     "hex": "u+22A5 ISOtech",
     "iso": "\\\\22A5",
     "octal": "\\u22a5"
@@ -2442,7 +2442,7 @@
     "html": "&sdot;",
     "symbol": "⋅",
     "numeric": "&#8901;",
-    "description": "dot operator",
+    "title": "Dot Operator",
     "hex": "u+22C5 ISOamsb",
     "iso": "\\\\22C5",
     "octal": "\\u22c5"
@@ -2451,7 +2451,7 @@
     "html": "&lceil;",
     "symbol": "⌈",
     "numeric": "&#8968;",
-    "description": "left ceiling, aka apl upstile",
+    "title": "Left Ceiling, Aka Apl Upstile",
     "hex": "u+2308 ISOamsc",
     "iso": "\\\\2308",
     "octal": "\\u2308"
@@ -2460,7 +2460,7 @@
     "html": "&rceil;",
     "symbol": "⌉",
     "numeric": "&#8969;",
-    "description": "right ceiling",
+    "title": "Right Ceiling",
     "hex": "u+2309 ISOamsc",
     "iso": "\\\\2309",
     "octal": "\\u2309"
@@ -2469,7 +2469,7 @@
     "html": "&lfloor;",
     "symbol": "⌊",
     "numeric": "&#8970;",
-    "description": "left floor, aka apl downstile",
+    "title": "Left Floor, Aka Apl Downstile",
     "hex": "u+230A ISOamsc",
     "iso": "\\\\230A",
     "octal": "\\u230a"
@@ -2478,7 +2478,7 @@
     "html": "&rfloor;",
     "symbol": "⌋",
     "numeric": "&#8971;",
-    "description": "right floor",
+    "title": "Right Floor",
     "hex": "u+230B ISOamsc",
     "iso": "\\\\230B",
     "octal": "\\u230b"
@@ -2487,7 +2487,7 @@
     "html": "&lang;",
     "symbol": "〈",
     "numeric": "&#9001;",
-    "description": "left-pointing angle bracket",
+    "title": "Left-Pointing Angle Bracket",
     "hex": "u+2329 ISOtech",
     "iso": "\\\\2329",
     "octal": "\\u2329"
@@ -2496,7 +2496,7 @@
     "html": "&rang;",
     "symbol": "〉",
     "numeric": "&#9002;",
-    "description": "right-pointing angle bracket",
+    "title": "Right-Pointing Angle Bracket",
     "hex": "u+232A ISOtech",
     "iso": "\\\\232A",
     "octal": "\\u232a"
@@ -2505,7 +2505,7 @@
     "html": "&loz;",
     "symbol": "◊",
     "numeric": "&#9674;",
-    "description": "lozenge",
+    "title": "Lozenge",
     "hex": "u+25CA ISOpub",
     "iso": "\\\\25CA",
     "octal": "\\u25ca"
@@ -2514,7 +2514,7 @@
     "html": "&spades;",
     "symbol": "♠",
     "numeric": "&#9824;",
-    "description": "black spade suit",
+    "title": "Black Spade Suit",
     "hex": "u+2660 ISOpub",
     "iso": "\\\\2660",
     "octal": "\\u2660"
@@ -2523,7 +2523,7 @@
     "html": "&clubs;",
     "symbol": "♣",
     "numeric": "&#9827;",
-    "description": "black club suit, aka shamrock",
+    "title": "Black Club Suit, Aka Shamrock",
     "hex": "u+2663 ISOpub",
     "iso": "\\\\2663",
     "octal": "\\u2663"
@@ -2532,7 +2532,7 @@
     "html": "&hearts;",
     "symbol": "♥",
     "numeric": "&#9829;",
-    "description": "black heart suit, aka valentine",
+    "title": "Black Heart Suit, Aka Valentine",
     "hex": "u+2665 ISOpub",
     "iso": "\\\\2665",
     "octal": "\\u2665"
@@ -2541,7 +2541,7 @@
     "html": "&diams;",
     "symbol": "♦",
     "numeric": "&#9830;",
-    "description": "black diamond suit",
+    "title": "Black Diamond Suit",
     "hex": "u+2666 ISOpub",
     "iso": "\\\\2666",
     "octal": "\\u2666"
