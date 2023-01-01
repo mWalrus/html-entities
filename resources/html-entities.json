@@ -1,0 +1,2549 @@
+[
+  {
+    "html": "`&quot;`",
+    "symbol": "\"",
+    "numeric": "`&#34;`",
+    "description": "quotation mark",
+    "hex": "u+0022 ISOnum",
+    "css": "\\\\0022",
+    "js": "<a href='javascript:alert(&quot;\\42&quot;)'>\\42</a>"
+  },
+  {
+    "html": "`&num;`",
+    "symbol": "#",
+    "numeric": "`&#35;`",
+    "description": "number sign",
+    "hex": "u+0023 ISOnum",
+    "css": "\\\\0023",
+    "js": "<a href='javascript:alert(&quot;\\43&quot;)'>\\43</a>"
+  },
+  {
+    "html": "`&dollar;`",
+    "symbol": "$",
+    "numeric": "`&#36;`",
+    "description": "dollar sign",
+    "hex": "u+0024 ISOnum",
+    "css": "\\\\0024",
+    "js": "<a href='javascript:alert(&quot;\\44&quot;)'>\\44</a>"
+  },
+  {
+    "html": "`&percnt;`",
+    "symbol": "%",
+    "numeric": "`&#37;`",
+    "description": "percent sign",
+    "hex": "u+0025 ISOnum",
+    "css": "\\\\0025",
+    "js": "<a href='javascript:alert(&quot;\\45&quot;)'>\\45</a>"
+  },
+  {
+    "html": "`&amp;`",
+    "symbol": "&",
+    "numeric": "`&#38;`",
+    "description": "ampersand",
+    "hex": "u+0026 ISOnum",
+    "css": "\\\\0026",
+    "js": "<a href='javascript:alert(&quot;\\46&quot;)'>\\46</a>"
+  },
+  {
+    "html": "`&apos;`",
+    "symbol": "'",
+    "numeric": "`&#39;`",
+    "description": "apostrophe",
+    "hex": "u+0027 ISOnum",
+    "css": "\\\\0027",
+    "js": "<a href='javascript:alert(&quot;\\47&quot;)'>\\47</a>"
+  },
+  {
+    "html": "`&lpar;`",
+    "symbol": "(",
+    "numeric": "`&#40;`",
+    "description": "left parenthesis",
+    "hex": "u+0028 ISOnum",
+    "css": "\\\\0028",
+    "js": "<a href='javascript:alert(&quot;\\50&quot;)'>\\50</a>"
+  },
+  {
+    "html": "`&rpar;`",
+    "symbol": ")",
+    "numeric": "`&#41;`",
+    "description": "right parenthesis",
+    "hex": "u+0029 ISOnum",
+    "css": "\\\\0029",
+    "js": "<a href='javascript:alert(&quot;\\51&quot;)'>\\51</a>"
+  },
+  {
+    "html": "`&ast;`",
+    "symbol": "*",
+    "numeric": "`&#42;`",
+    "description": "asterisk",
+    "hex": "u+002A ISOnum",
+    "css": "\\\\002a",
+    "js": "<a href='javascript:alert(&quot;\\52&quot;)'>\\52</a>"
+  },
+  {
+    "html": "`&plus;`",
+    "symbol": "+",
+    "numeric": "`&#43;`",
+    "description": "plus sign",
+    "hex": "u+002B ISOnum",
+    "css": "\\\\002b",
+    "js": "<a href='javascript:alert(&quot;\\53&quot;)'>\\53</a>"
+  },
+  {
+    "html": "`&comma;`",
+    "symbol": ",",
+    "numeric": "`&#44;`",
+    "description": "comma",
+    "hex": "u+002C ISOnum",
+    "css": "\\\\002c",
+    "js": "<a href='javascript:alert(&quot;\\54&quot;)'>\\54</a>"
+  },
+  {
+    "html": "`&minus;`",
+    "symbol": "-",
+    "numeric": "`&#45;`",
+    "description": "hyphen-minus",
+    "hex": "u+002D ISOnum",
+    "css": "\\\\002d",
+    "js": "<a href='javascript:alert(&quot;\\55&quot;)'>\\55</a>"
+  },
+  {
+    "html": "`&period;`",
+    "symbol": ".",
+    "numeric": "`&#46;`",
+    "description": "full stop; period",
+    "hex": "u+002E ISOnum",
+    "css": "\\\\002e",
+    "js": "<a href='javascript:alert(&quot;\\56&quot;)'>\\56</a>"
+  },
+  {
+    "html": "`&sol;`",
+    "symbol": "/",
+    "numeric": "`&#47;`",
+    "description": "solidus; slash",
+    "hex": "u+002F ISOnum",
+    "css": "\\\\002f",
+    "js": "<a href='javascript:alert(&quot;\\57&quot;)'>\\57</a>"
+  },
+  {
+    "html": "`&colon;`",
+    "symbol": ":",
+    "numeric": "`&#58;`",
+    "description": "colon",
+    "hex": "u+003A ISOnum",
+    "css": "\\\\003a",
+    "js": "<a href='javascript:alert(&quot;\\72&quot;)'>\\72</a>"
+  },
+  {
+    "html": "`&semi;`",
+    "symbol": ";",
+    "numeric": "`&#59;`",
+    "description": "semicolon",
+    "hex": "u+003B ISOnum",
+    "css": "\\\\003b",
+    "js": "<a href='javascript:alert(&quot;\\73&quot;)'>\\73</a>"
+  },
+  {
+    "html": "`&lt;`",
+    "symbol": "<",
+    "numeric": "`&#60;`",
+    "description": "less-than",
+    "hex": "u+003C ISOnum",
+    "css": "\\\\003c",
+    "js": "<a href='javascript:alert(&quot;\\74&quot;)'>\\74</a>"
+  },
+  {
+    "html": "`&equals;`",
+    "symbol": "=",
+    "numeric": "`&#61;`",
+    "description": "equals",
+    "hex": "u+003D ISOnum",
+    "css": "\\\\003d",
+    "js": "<a href='javascript:alert(&quot;\\75&quot;)'>\\75</a>"
+  },
+  {
+    "html": "`&gt;`",
+    "symbol": ">",
+    "numeric": "`&#62;`",
+    "description": "greater-than sign",
+    "hex": "u+003E ISOnum",
+    "css": "\\\\003e",
+    "js": "<a href='javascript:alert(&quot;\\76&quot;)'>\\76</a>"
+  },
+  {
+    "html": "`&quest;`",
+    "symbol": "?",
+    "numeric": "`&#63;`",
+    "description": "question mark",
+    "hex": "u+003F ISOnum",
+    "css": "\\\\003f",
+    "js": "<a href='javascript:alert(&quot;\\77&quot;)'>\\77</a>"
+  },
+  {
+    "html": "`&commat;`",
+    "symbol": "@",
+    "numeric": "`&#64;`",
+    "description": "at sign; commercial at",
+    "hex": "u+0040 ISOnum",
+    "css": "\\\\0040",
+    "js": "<a href='javascript:alert(&quot;\\100&quot;)'>\\100</a>"
+  },
+  {
+    "html": "`&lsqb;`",
+    "symbol": "[",
+    "numeric": "`&#91;`",
+    "description": "left square bracket",
+    "hex": "u+005B ISOnum",
+    "css": "\\\\005b",
+    "js": "<a href='javascript:alert(&quot;\\133&quot;)'>\\133</a>"
+  },
+  {
+    "html": "`&bsol;`",
+    "symbol": "\\",
+    "numeric": "`&#92;`",
+    "description": "backslash",
+    "hex": "u+005C ISOnum",
+    "css": "\\\\005c",
+    "js": "<a href='javascript:alert(&quot;\\134&quot;)'>\\134</a>"
+  },
+  {
+    "html": "`&rsqb;`",
+    "symbol": "]",
+    "numeric": "`&#93;`",
+    "description": "right square bracket",
+    "hex": "u+005D ISOnum",
+    "css": "\\\\005d",
+    "js": "<a href='javascript:alert(&quot;\\135&quot;)'>\\135</a>"
+  },
+  {
+    "html": "`&Hat;`",
+    "symbol": "^",
+    "numeric": "`&#94;`",
+    "description": "circumflex accent",
+    "hex": "u+005E ISOnum",
+    "css": "\\\\005e",
+    "js": "<a href='javascript:alert(&quot;\\136&quot;)'>\\136</a>"
+  },
+  {
+    "html": "`&lowbar;`",
+    "symbol": "_",
+    "numeric": "`&#95;`",
+    "description": "low line",
+    "hex": "u+005F ISOnum",
+    "css": "\\\\005f",
+    "js": "<a href='javascript:alert(&quot;\\137&quot;)'>\\137</a>"
+  },
+  {
+    "html": "`&grave;`",
+    "symbol": "&#96;",
+    "numeric": "`&#96;`",
+    "description": "grave accent",
+    "hex": "u+0060 ISOnum",
+    "css": "\\\\0060",
+    "js": "<a href='javascript:alert(&quot;\\u0060&quot;)'>\\u0060</a>"
+  },
+  {
+    "html": "`&lcub;`",
+    "symbol": "{",
+    "numeric": "`&#123;`",
+    "description": "left curly bracket",
+    "hex": "u+007b ISOnum",
+    "css": "\\\\007b",
+    "js": "<a href='javascript:alert(&quot;\\173&quot;)'>\\173</a>"
+  },
+  {
+    "html": "`&verbar;`",
+    "symbol": "\\",
+    "numeric": "",
+    "description": "`&#124;`",
+    "hex": "vertical bar",
+    "css": "u+007c ISOnum",
+    "js": "\\\\007c"
+  },
+  {
+    "html": "`&rcub;`",
+    "symbol": "}",
+    "numeric": "`&#125;`",
+    "description": "right curly bracket",
+    "hex": "u+007d ISOnum",
+    "css": "\\\\007d",
+    "js": "<a href='javascript:alert(&quot;\\175&quot;)'>\\175</a>"
+  },
+  {
+    "html": "",
+    "symbol": "~",
+    "numeric": "`&#126;`",
+    "description": "tilde",
+    "hex": "u+007e ISOnum",
+    "css": "\\\\007e",
+    "js": "<a href='javascript:alert(&quot;\\176&quot;)'>\\176</a>"
+  },
+  {
+    "html": "`&nbsp;`",
+    "symbol": "",
+    "numeric": "`&#160;`",
+    "description": "no-break space",
+    "hex": "%A0",
+    "css": "\\\\00a0",
+    "js": "<a href='javascript:alert(&quot;\\240&quot;)'>\\240</a>"
+  },
+  {
+    "html": "`&iexcl;`",
+    "symbol": "¡",
+    "numeric": "`&#161;`",
+    "description": "inverted exclamation mark",
+    "hex": "%A1",
+    "css": "\\\\00a1",
+    "js": "<a href='javascript:alert(&quot;\\241&quot;)'>\\241</a>"
+  },
+  {
+    "html": "`&cent;`",
+    "symbol": "¢",
+    "numeric": "`&#162;`",
+    "description": "cent sign",
+    "hex": "%A2",
+    "css": "\\\\00a2",
+    "js": "<a href='javascript:alert(&quot;\\242&quot;)'>\\242</a>"
+  },
+  {
+    "html": "`&pound;`",
+    "symbol": "£",
+    "numeric": "`&#163;`",
+    "description": "pound sterling sign",
+    "hex": "%A3",
+    "css": "\\\\00a3",
+    "js": "<a href='javascript:alert(&quot;\\243&quot;)'>\\243</a>"
+  },
+  {
+    "html": "`&curren;`",
+    "symbol": "¤",
+    "numeric": "`&#164;`",
+    "description": "general currency sign",
+    "hex": "%A4",
+    "css": "\\\\00a4",
+    "js": "<a href='javascript:alert(&quot;\\244&quot;)'>\\244</a>"
+  },
+  {
+    "html": "`&yen;`",
+    "symbol": "¥",
+    "numeric": "`&#165;`",
+    "description": "yen sign",
+    "hex": "%A5",
+    "css": "\\\\00a5",
+    "js": "<a href='javascript:alert(&quot;\\245&quot;)'>\\245</a>"
+  },
+  {
+    "html": "`&#x20B9;`",
+    "symbol": "₹",
+    "numeric": "`&#x20B9;`",
+    "description": "Indian Rupee (INR) sign",
+    "hex": "U+20B9",
+    "css": "\\\\20B9",
+    "js": "<a href='javascript:alert(&quot;\\u20B9&quot;)'>\\u20B9</a>"
+  },
+  {
+    "html": "`&brvbar;`",
+    "symbol": "¦",
+    "numeric": "`&#166;`",
+    "description": "broken (vertical) bar",
+    "hex": "%A6",
+    "css": "\\\\00a6",
+    "js": "<a href='javascript:alert(&quot;\\246&quot;)'>\\246</a>"
+  },
+  {
+    "html": "`&sect;`",
+    "symbol": "§",
+    "numeric": "`&#167;`",
+    "description": "section sign",
+    "hex": "%A7",
+    "css": "\\\\00a7",
+    "js": "<a href='javascript:alert(&quot;\\247&quot;)'>\\247</a>"
+  },
+  {
+    "html": "`&uml;`",
+    "symbol": "¨",
+    "numeric": "`&#168;`",
+    "description": "umlaut (dieresis)",
+    "hex": "%A8",
+    "css": "\\\\00a8",
+    "js": "<a href='javascript:alert(&quot;\\250&quot;)'>\\250</a>"
+  },
+  {
+    "html": "`&copy;`",
+    "symbol": "©",
+    "numeric": "`&#169;`",
+    "description": "copyright sign",
+    "hex": "%A9",
+    "css": "\\\\00a9",
+    "js": "<a href='javascript:alert(&quot;\\251&quot;)'>\\251</a>"
+  },
+  {
+    "html": "`&ordf;`",
+    "symbol": "ª",
+    "numeric": "`&#170;`",
+    "description": "ordinal indicator, feminine",
+    "hex": "%AA",
+    "css": "\\\\00aa",
+    "js": "<a href='javascript:alert(&quot;\\252&quot;)'>\\252</a>"
+  },
+  {
+    "html": "`&laquo;`",
+    "symbol": "«",
+    "numeric": "`&#171;`",
+    "description": "angle quotation mark, left",
+    "hex": "%AB",
+    "css": "\\\\00ab",
+    "js": "<a href='javascript:alert(&quot;\\253&quot;)'>\\253</a>"
+  },
+  {
+    "html": "`&not;`",
+    "symbol": "¬",
+    "numeric": "`&#172;`",
+    "description": "not sign",
+    "hex": "%AC",
+    "css": "\\\\00ac",
+    "js": "<a href='javascript:alert(&quot;\\254&quot;)'>\\254</a>"
+  },
+  {
+    "html": "`&shy;`",
+    "symbol": "­",
+    "numeric": "`&#173;`",
+    "description": "soft hyphen",
+    "hex": "%AD",
+    "css": "\\\\00ad",
+    "js": "<a href='javascript:alert(&quot;\\255&quot;)'>\\255</a>"
+  },
+  {
+    "html": "`&reg;`",
+    "symbol": "®",
+    "numeric": "`&#174;`",
+    "description": "registered sign",
+    "hex": "%AE",
+    "css": "\\\\00ae",
+    "js": "<a href='javascript:alert(&quot;\\256&quot;)'>\\256</a>"
+  },
+  {
+    "html": "`&macr;`",
+    "symbol": "¯",
+    "numeric": "`&#175;`",
+    "description": "macron",
+    "hex": "%AF",
+    "css": "\\\\00af",
+    "js": "<a href='javascript:alert(&quot;\\257&quot;)'>\\257</a>"
+  },
+  {
+    "html": "`&deg;`",
+    "symbol": "°",
+    "numeric": "`&#176;`",
+    "description": "degree sign",
+    "hex": "%B0",
+    "css": "\\\\00b0",
+    "js": "<a href='javascript:alert(&quot;\\260&quot;)'>\\260</a>"
+  },
+  {
+    "html": "`&plusmn;`",
+    "symbol": "±",
+    "numeric": "`&#177;`",
+    "description": "plus-or-minus sign",
+    "hex": "%B1",
+    "css": "\\\\00b1",
+    "js": "<a href='javascript:alert(&quot;\\261&quot;)'>\\261</a>"
+  },
+  {
+    "html": "`&sup2;`",
+    "symbol": "²",
+    "numeric": "`&#178;`",
+    "description": "superscript two",
+    "hex": "%B2",
+    "css": "\\\\00b2",
+    "js": "<a href='javascript:alert(&quot;\\262&quot;)'>\\262</a>"
+  },
+  {
+    "html": "`&sup3;`",
+    "symbol": "³",
+    "numeric": "`&#179;`",
+    "description": "superscript three",
+    "hex": "%B3",
+    "css": "\\\\00b3",
+    "js": "<a href='javascript:alert(&quot;\\263&quot;)'>\\263</a>"
+  },
+  {
+    "html": "`&acute;`",
+    "symbol": "´",
+    "numeric": "`&#180;`",
+    "description": "acute accent",
+    "hex": "%B4",
+    "css": "\\\\00b4",
+    "js": "<a href='javascript:alert(&quot;\\264&quot;)'>\\264</a>"
+  },
+  {
+    "html": "`&micro;`",
+    "symbol": "µ",
+    "numeric": "`&#181;`",
+    "description": "micro sign",
+    "hex": "%B5",
+    "css": "\\\\00b5",
+    "js": "<a href='javascript:alert(&quot;\\265&quot;)'>\\265</a>"
+  },
+  {
+    "html": "`&para;`",
+    "symbol": "¶",
+    "numeric": "`&#182;`",
+    "description": "pilcrow (paragraph sign)",
+    "hex": "%B6",
+    "css": "\\\\00b6",
+    "js": "<a href='javascript:alert(&quot;\\266&quot;)'>\\266</a>"
+  },
+  {
+    "html": "`&middot;`",
+    "symbol": "·",
+    "numeric": "`&#183;`",
+    "description": "middle dot",
+    "hex": "%B7",
+    "css": "\\\\00b7",
+    "js": "<a href='javascript:alert(&quot;\\267&quot;)'>\\267</a>"
+  },
+  {
+    "html": "`&cedil;`",
+    "symbol": "¸",
+    "numeric": "`&#184;`",
+    "description": "cedilla",
+    "hex": "%B8",
+    "css": "\\\\00b8",
+    "js": "<a href='javascript:alert(&quot;\\270&quot;)'>\\270</a>"
+  },
+  {
+    "html": "`&sup1;`",
+    "symbol": "¹",
+    "numeric": "`&#185;`",
+    "description": "superscript one",
+    "hex": "%B9",
+    "css": "\\\\00b9",
+    "js": "<a href='javascript:alert(&quot;\\271&quot;)'>\\271</a>"
+  },
+  {
+    "html": "`&ordm;`",
+    "symbol": "º",
+    "numeric": "`&#186;`",
+    "description": "ordinal indicator, masculine",
+    "hex": "%BA",
+    "css": "\\\\00ba",
+    "js": "<a href='javascript:alert(&quot;\\272&quot;)'>\\272</a>"
+  },
+  {
+    "html": "`&raquo;`",
+    "symbol": "»",
+    "numeric": "`&#187;`",
+    "description": "angle quotation mark, right",
+    "hex": "%BB",
+    "css": "\\\\00bb",
+    "js": "<a href='javascript:alert(&quot;\\273&quot;)'>\\273</a>"
+  },
+  {
+    "html": "`&frac14;`",
+    "symbol": "¼",
+    "numeric": "`&#188;`",
+    "description": "fraction one-quarter",
+    "hex": "%BC",
+    "css": "\\\\00bc",
+    "js": "<a href='javascript:alert(&quot;\\274&quot;)'>\\274</a>"
+  },
+  {
+    "html": "`&frac12;`",
+    "symbol": "½",
+    "numeric": "`&#189;`",
+    "description": "fraction one-half",
+    "hex": "%BD",
+    "css": "\\\\00bd",
+    "js": "<a href='javascript:alert(&quot;\\275&quot;)'>\\275</a>"
+  },
+  {
+    "html": "`&frac34;`",
+    "symbol": "¾",
+    "numeric": "`&#190;`",
+    "description": "fraction three-quarters",
+    "hex": "%BE",
+    "css": "\\\\00be",
+    "js": "<a href='javascript:alert(&quot;\\276&quot;)'>\\276</a>"
+  },
+  {
+    "html": "`&iquest;`",
+    "symbol": "¿",
+    "numeric": "`&#191;`",
+    "description": "inverted question mark",
+    "hex": "%BF",
+    "css": "\\\\00bf",
+    "js": "<a href='javascript:alert(&quot;\\277&quot;)'>\\277</a>"
+  },
+  {
+    "html": "`&Agrave;`",
+    "symbol": "À",
+    "numeric": "`&#192;`",
+    "description": "capital A, grave accent",
+    "hex": "%C0",
+    "css": "\\\\00c0",
+    "js": "<a href='javascript:alert(&quot;\\300&quot;)'>\\300</a>"
+  },
+  {
+    "html": "`&Aacute;`",
+    "symbol": "Á",
+    "numeric": "`&#193;`",
+    "description": "capital A, acute accent",
+    "hex": "%C1",
+    "css": "\\\\00c1",
+    "js": "<a href='javascript:alert(&quot;\\301&quot;)'>\\301</a>"
+  },
+  {
+    "html": "`&Acirc;`",
+    "symbol": "Â",
+    "numeric": "`&#194 ;`",
+    "description": "capital A, circumflex accent",
+    "hex": "%C2",
+    "css": "\\\\00c2",
+    "js": "<a href='javascript:alert(&quot;\\302&quot;)'>\\302</a>"
+  },
+  {
+    "html": "`&Atilde;`",
+    "symbol": "Ã",
+    "numeric": "`&#195;`",
+    "description": "capital A, tilde",
+    "hex": "%C3",
+    "css": "\\\\00c3",
+    "js": "<a href='javascript:alert(&quot;\\303&quot;)'>\\303</a>"
+  },
+  {
+    "html": "`&Auml;`",
+    "symbol": "Ä",
+    "numeric": "`&#196;`",
+    "description": "capital A, dieresis or umlaut mark",
+    "hex": "%C4",
+    "css": "\\\\00c4",
+    "js": "<a href='javascript:alert(&quot;\\304&quot;)'>\\304</a>"
+  },
+  {
+    "html": "`&Aring;`",
+    "symbol": "Å",
+    "numeric": "`&#197;`",
+    "description": "capital A, ring",
+    "hex": "%C5",
+    "css": "\\\\00c5",
+    "js": "<a href='javascript:alert(&quot;\\305&quot;)'>\\305</a>"
+  },
+  {
+    "html": "`&AElig;`",
+    "symbol": "Æ",
+    "numeric": "`&#198;`",
+    "description": "capital AE diphthong (ligature)",
+    "hex": "%C6",
+    "css": "\\\\00c6",
+    "js": "<a href='javascript:alert(&quot;\\306&quot;)'>\\306</a>"
+  },
+  {
+    "html": "`&Ccedil;`",
+    "symbol": "Ç",
+    "numeric": "`&#199;`",
+    "description": "capital C, cedilla",
+    "hex": "%C7",
+    "css": "\\\\00c7",
+    "js": "<a href='javascript:alert(&quot;\\307&quot;)'>\\307</a>"
+  },
+  {
+    "html": "`&Egrave;`",
+    "symbol": "È",
+    "numeric": "`&#200;`",
+    "description": "capital E, grave accent",
+    "hex": "%C8",
+    "css": "\\\\00c8",
+    "js": "<a href='javascript:alert(&quot;\\310&quot;)'>\\310</a>"
+  },
+  {
+    "html": "`&Eacute;`",
+    "symbol": "É",
+    "numeric": "`&#201;`",
+    "description": "capital E, acute accent",
+    "hex": "%C9",
+    "css": "\\\\00c9",
+    "js": "<a href='javascript:alert(&quot;\\311&quot;)'>\\311</a>"
+  },
+  {
+    "html": "`&Ecirc;`",
+    "symbol": "Ê",
+    "numeric": "`&#202;`",
+    "description": "capital E, circumflex accent",
+    "hex": "%CA",
+    "css": "\\\\00ca",
+    "js": "<a href='javascript:alert(&quot;\\312&quot;)'>\\312</a>"
+  },
+  {
+    "html": "`&Euml;`",
+    "symbol": "Ë",
+    "numeric": "`&#203;`",
+    "description": "capital E, dieresis or umlaut mark",
+    "hex": "%CB",
+    "css": "\\\\00cb",
+    "js": "<a href='javascript:alert(&quot;\\313&quot;)'>\\313</a>"
+  },
+  {
+    "html": "`&Igrave;`",
+    "symbol": "Ì",
+    "numeric": "`&#204;`",
+    "description": "capital I, grave accent",
+    "hex": "%CC",
+    "css": "\\\\00cc",
+    "js": "<a href='javascript:alert(&quot;\\314&quot;)'>\\314</a>"
+  },
+  {
+    "html": "`&Iacute;`",
+    "symbol": "Í",
+    "numeric": "`&#205;`",
+    "description": "capital I, acute accent",
+    "hex": "%CD",
+    "css": "\\\\00cd",
+    "js": "<a href='javascript:alert(&quot;\\315&quot;)'>\\315</a>"
+  },
+  {
+    "html": "`&Icirc;`",
+    "symbol": "Î",
+    "numeric": "`&#206;`",
+    "description": "capital I, circumflex accent",
+    "hex": "%CE",
+    "css": "\\\\00ce",
+    "js": "<a href='javascript:alert(&quot;\\316&quot;)'>\\316</a>"
+  },
+  {
+    "html": "`&Iuml;`",
+    "symbol": "Ï",
+    "numeric": "`&#207;`",
+    "description": "capital I, dieresis or umlaut mark",
+    "hex": "%CF",
+    "css": "\\\\00cf",
+    "js": "<a href='javascript:alert(&quot;\\317&quot;)'>\\317</a>"
+  },
+  {
+    "html": "`&ETH;`",
+    "symbol": "Ð",
+    "numeric": "`&#208;`",
+    "description": "capital Eth, Icelandic",
+    "hex": "%D0",
+    "css": "\\\\00d0",
+    "js": "<a href='javascript:alert(&quot;\\320&quot;)'>\\320</a>"
+  },
+  {
+    "html": "`&Ntilde;`",
+    "symbol": "Ñ",
+    "numeric": "`&#209;`",
+    "description": "capital N, tilde",
+    "hex": "%D1",
+    "css": "\\\\00d1",
+    "js": "<a href='javascript:alert(&quot;\\321&quot;)'>\\321</a>"
+  },
+  {
+    "html": "`&Ograve;`",
+    "symbol": "Ò",
+    "numeric": "`&#210;`",
+    "description": "capital O, grave accent",
+    "hex": "%D2",
+    "css": "\\\\00d2",
+    "js": "<a href='javascript:alert(&quot;\\322&quot;)'>\\322</a>"
+  },
+  {
+    "html": "`&Oacute;`",
+    "symbol": "Ó",
+    "numeric": "`&#211;`",
+    "description": "capital O, acute accent",
+    "hex": "%D3",
+    "css": "\\\\00d3",
+    "js": "<a href='javascript:alert(&quot;\\323&quot;)'>\\323</a>"
+  },
+  {
+    "html": "`&Ocirc;`",
+    "symbol": "Ô",
+    "numeric": "`&#212;`",
+    "description": "capital O, circumflex accent",
+    "hex": "%D4",
+    "css": "\\\\00d4",
+    "js": "<a href='javascript:alert(&quot;\\324&quot;)'>\\324</a>"
+  },
+  {
+    "html": "`&Otilde;`",
+    "symbol": "Õ",
+    "numeric": "`&#213;`",
+    "description": "capital O, tilde",
+    "hex": "%D5",
+    "css": "\\\\00d5",
+    "js": "<a href='javascript:alert(&quot;\\325&quot;)'>\\325</a>"
+  },
+  {
+    "html": "`&Ouml;`",
+    "symbol": "Ö",
+    "numeric": "`&#214;`",
+    "description": "capital O, dieresis or umlaut mark",
+    "hex": "%D6",
+    "css": "\\\\00d6",
+    "js": "<a href='javascript:alert(&quot;\\326&quot;)'>\\326</a>"
+  },
+  {
+    "html": "`&times;`",
+    "symbol": "×",
+    "numeric": "`&#215;`",
+    "description": "multiply sign",
+    "hex": "%D7",
+    "css": "\\\\00d7",
+    "js": "<a href='javascript:alert(&quot;\\327&quot;)'>\\327</a>"
+  },
+  {
+    "html": "`&Oslash;`",
+    "symbol": "Ø",
+    "numeric": "`&#216;`",
+    "description": "capital O, slash",
+    "hex": "%D8",
+    "css": "\\\\00d8",
+    "js": "<a href='javascript:alert(&quot;\\330&quot;)'>\\330</a>"
+  },
+  {
+    "html": "`&Ugrave;`",
+    "symbol": "Ù",
+    "numeric": "`&#217;`",
+    "description": "capital U, grave accent",
+    "hex": "%D9",
+    "css": "\\\\00d9",
+    "js": "<a href='javascript:alert(&quot;\\331&quot;)'>\\331</a>"
+  },
+  {
+    "html": "`&Uacute;`",
+    "symbol": "Ú",
+    "numeric": "`&#218;`",
+    "description": "capital U, acute accent",
+    "hex": "%DA",
+    "css": "\\\\00da",
+    "js": "<a href='javascript:alert(&quot;\\332&quot;)'>\\332</a>"
+  },
+  {
+    "html": "`&Ucirc;`",
+    "symbol": "Û",
+    "numeric": "`&#219;`",
+    "description": "capital U, circumflex accent",
+    "hex": "%DB",
+    "css": "\\\\00db",
+    "js": "<a href='javascript:alert(&quot;\\333&quot;)'>\\333</a>"
+  },
+  {
+    "html": "`&Uuml;`",
+    "symbol": "Ü",
+    "numeric": "`&#220;`",
+    "description": "capital U, dieresis or umlaut mark",
+    "hex": "%DC",
+    "css": "\\\\00dc",
+    "js": "<a href='javascript:alert(&quot;\\334&quot;)'>\\334</a>"
+  },
+  {
+    "html": "`&Yacute;`",
+    "symbol": "Ý",
+    "numeric": "`&#221;`",
+    "description": "capital Y, acute accent",
+    "hex": "%DD",
+    "css": "\\\\00dd",
+    "js": "<a href='javascript:alert(&quot;\\335&quot;)'>\\335</a>"
+  },
+  {
+    "html": "`&THORN;`",
+    "symbol": "Þ",
+    "numeric": "`&#222;`",
+    "description": "capital THORN, Icelandic",
+    "hex": "%DE",
+    "css": "\\\\00de",
+    "js": "<a href='javascript:alert(&quot;\\336&quot;)'>\\336</a>"
+  },
+  {
+    "html": "`&szlig;`",
+    "symbol": "ß",
+    "numeric": "`&#223;`",
+    "description": "small sharp s, German (sz ligature)",
+    "hex": "%DF",
+    "css": "\\\\00df",
+    "js": "<a href='javascript:alert(&quot;\\337&quot;)'>\\337</a>"
+  },
+  {
+    "html": "`&agrave;`",
+    "symbol": "à",
+    "numeric": "`&#224;`",
+    "description": "small a, grave accent",
+    "hex": "%E0",
+    "css": "\\\\00e0",
+    "js": "<a href='javascript:alert(&quot;\\340&quot;)'>\\340</a>"
+  },
+  {
+    "html": "`&aacute;`",
+    "symbol": "á",
+    "numeric": "`&#225;`",
+    "description": "small a, acute accent",
+    "hex": "%E1",
+    "css": "\\\\00e1",
+    "js": "<a href='javascript:alert(&quot;\\341&quot;)'>\\341</a>"
+  },
+  {
+    "html": "`&acirc;`",
+    "symbol": "â",
+    "numeric": "`&#226;`",
+    "description": "small a, circumflex accent",
+    "hex": "%E2",
+    "css": "\\\\00e2",
+    "js": "<a href='javascript:alert(&quot;\\342&quot;)'>\\342</a>"
+  },
+  {
+    "html": "`&atilde;`",
+    "symbol": "ã",
+    "numeric": "`&#227;`",
+    "description": "small a, tilde",
+    "hex": "%E3",
+    "css": "\\\\00e3",
+    "js": "<a href='javascript:alert(&quot;\\343&quot;)'>\\343</a>"
+  },
+  {
+    "html": "`&auml;`",
+    "symbol": "ä",
+    "numeric": "`&#228;`",
+    "description": "small a, dieresis or umlaut mark",
+    "hex": "%E4",
+    "css": "\\\\00e4",
+    "js": "<a href='javascript:alert(&quot;\\344&quot;)'>\\344</a>"
+  },
+  {
+    "html": "`&aring;`",
+    "symbol": "å",
+    "numeric": "`&#229;`",
+    "description": "small a, ring",
+    "hex": "%E5",
+    "css": "\\\\00e5",
+    "js": "<a href='javascript:alert(&quot;\\345&quot;)'>\\345</a>"
+  },
+  {
+    "html": "`&aelig;`",
+    "symbol": "æ",
+    "numeric": "`&#230;`",
+    "description": "small ae diphthong (ligature)",
+    "hex": "%E6",
+    "css": "\\\\00e6",
+    "js": "<a href='javascript:alert(&quot;\\346&quot;)'>\\346</a>"
+  },
+  {
+    "html": "`&ccedil;`",
+    "symbol": "ç",
+    "numeric": "`&#231;`",
+    "description": "small c, cedilla",
+    "hex": "%E7",
+    "css": "\\\\00e7",
+    "js": "<a href='javascript:alert(&quot;\\347&quot;)'>\\347</a>"
+  },
+  {
+    "html": "`&egrave;`",
+    "symbol": "è",
+    "numeric": "`&#232;`",
+    "description": "small e, grave accent",
+    "hex": "%E8",
+    "css": "\\\\00e8",
+    "js": "<a href='javascript:alert(&quot;\\350&quot;)'>\\350</a>"
+  },
+  {
+    "html": "`&eacute;`",
+    "symbol": "é",
+    "numeric": "`&#233;`",
+    "description": "small e, acute accent",
+    "hex": "%E9",
+    "css": "\\\\00e9",
+    "js": "<a href='javascript:alert(&quot;\\351&quot;)'>\\351</a>"
+  },
+  {
+    "html": "`&ecirc;`",
+    "symbol": "ê",
+    "numeric": "`&#234;`",
+    "description": "small e, circumflex accent",
+    "hex": "%EA",
+    "css": "\\\\00ea",
+    "js": "<a href='javascript:alert(&quot;\\352&quot;)'>\\352</a>"
+  },
+  {
+    "html": "`&euml;`",
+    "symbol": "ë",
+    "numeric": "`&#235;`",
+    "description": "small e, dieresis or umlaut mark",
+    "hex": "%EB",
+    "css": "\\\\00eb",
+    "js": "<a href='javascript:alert(&quot;\\353&quot;)'>\\353</a>"
+  },
+  {
+    "html": "`&igrave;`",
+    "symbol": "ì",
+    "numeric": "`&#236;`",
+    "description": "small i, grave accent",
+    "hex": "%EC",
+    "css": "\\\\00ec",
+    "js": "<a href='javascript:alert(&quot;\\354&quot;)'>\\354</a>"
+  },
+  {
+    "html": "`&iacute;`",
+    "symbol": "í",
+    "numeric": "`&#237;`",
+    "description": "small i, acute accent",
+    "hex": "%ED",
+    "css": "\\\\00ed",
+    "js": "<a href='javascript:alert(&quot;\\355&quot;)'>\\355</a>"
+  },
+  {
+    "html": "`&icirc;`",
+    "symbol": "î",
+    "numeric": "`&#238;`",
+    "description": "small i, circumflex accent",
+    "hex": "%EE",
+    "css": "\\\\00ee",
+    "js": "<a href='javascript:alert(&quot;\\356&quot;)'>\\356</a>"
+  },
+  {
+    "html": "`&iuml;`",
+    "symbol": "ï",
+    "numeric": "`&#239;`",
+    "description": "small i, dieresis or umlaut mark",
+    "hex": "%EF",
+    "css": "\\\\00ef",
+    "js": "<a href='javascript:alert(&quot;\\357&quot;)'>\\357</a>"
+  },
+  {
+    "html": "`&eth;`",
+    "symbol": "ð",
+    "numeric": "`&#240;`",
+    "description": "small eth, Icelandic",
+    "hex": "%F0",
+    "css": "\\\\00f0",
+    "js": "<a href='javascript:alert(&quot;\\360&quot;)'>\\360</a>"
+  },
+  {
+    "html": "`&ntilde;`",
+    "symbol": "ñ",
+    "numeric": "`&#241;`",
+    "description": "small n, tilde",
+    "hex": "%F1",
+    "css": "\\\\00f1",
+    "js": "<a href='javascript:alert(&quot;\\361&quot;)'>\\361</a>"
+  },
+  {
+    "html": "`&ograve;`",
+    "symbol": "ò",
+    "numeric": "`&#242;`",
+    "description": "small o, grave accent",
+    "hex": "%F2",
+    "css": "\\\\00f2",
+    "js": "<a href='javascript:alert(&quot;\\362&quot;)'>\\362</a>"
+  },
+  {
+    "html": "`&oacute;`",
+    "symbol": "ó",
+    "numeric": "`&#243;`",
+    "description": "small o, acute accent",
+    "hex": "%F3",
+    "css": "\\\\00f3",
+    "js": "<a href='javascript:alert(&quot;\\363&quot;)'>\\363</a>"
+  },
+  {
+    "html": "`&ocirc;`",
+    "symbol": "ô",
+    "numeric": "`&#244;`",
+    "description": "small o, circumflex accent",
+    "hex": "%F4",
+    "css": "\\\\00f4",
+    "js": "<a href='javascript:alert(&quot;\\364&quot;)'>\\364</a>"
+  },
+  {
+    "html": "`&otilde;`",
+    "symbol": "õ",
+    "numeric": "`&#245;`",
+    "description": "small o, tilde",
+    "hex": "%F5",
+    "css": "\\\\00f5",
+    "js": "<a href='javascript:alert(&quot;\\365&quot;)'>\\365</a>"
+  },
+  {
+    "html": "`&ouml;`",
+    "symbol": "ö",
+    "numeric": "`&#246;`",
+    "description": "small o, dieresis or umlaut mark",
+    "hex": "%F6",
+    "css": "\\\\00f6",
+    "js": "<a href='javascript:alert(&quot;\\366&quot;)'>\\366</a>"
+  },
+  {
+    "html": "`&divide;`",
+    "symbol": "÷",
+    "numeric": "`&#247;`",
+    "description": "divide sign",
+    "hex": "%F7",
+    "css": "\\\\00f7",
+    "js": "<a href='javascript:alert(&quot;\\367&quot;)'>\\367</a>"
+  },
+  {
+    "html": "`&oslash;`",
+    "symbol": "ø",
+    "numeric": "`&#248;`",
+    "description": "small o, slash",
+    "hex": "%F8",
+    "css": "\\\\00f8",
+    "js": "<a href='javascript:alert(&quot;\\370&quot;)'>\\370</a>"
+  },
+  {
+    "html": "`&ugrave;`",
+    "symbol": "ù",
+    "numeric": "`&#249;`",
+    "description": "small u, grave accent",
+    "hex": "%F9",
+    "css": "\\\\00f9",
+    "js": "<a href='javascript:alert(&quot;\\371&quot;)'>\\371</a>"
+  },
+  {
+    "html": "`&uacute;`",
+    "symbol": "ú",
+    "numeric": "`&#250;`",
+    "description": "small u, acute accent",
+    "hex": "%FA",
+    "css": "\\\\00fa",
+    "js": "<a href='javascript:alert(&quot;\\372&quot;)'>\\372</a>"
+  },
+  {
+    "html": "`&ucirc;`",
+    "symbol": "û",
+    "numeric": "`&#251;`",
+    "description": "small u, circumflex accent",
+    "hex": "%FB",
+    "css": "\\\\00fb",
+    "js": "<a href='javascript:alert(&quot;\\373&quot;)'>\\373</a>"
+  },
+  {
+    "html": "`&uuml;`",
+    "symbol": "ü",
+    "numeric": "`&#252;`",
+    "description": "small u, dieresis or umlaut mark",
+    "hex": "%FC",
+    "css": "\\\\00fc",
+    "js": "<a href='javascript:alert(&quot;\\374&quot;)'>\\374</a>"
+  },
+  {
+    "html": "`&yacute;`",
+    "symbol": "ý",
+    "numeric": "`&#253;`",
+    "description": "small y, acute accent",
+    "hex": "%FD",
+    "css": "\\\\00fd",
+    "js": "<a href='javascript:alert(&quot;\\375&quot;)'>\\375</a>"
+  },
+  {
+    "html": "`&thorn;`",
+    "symbol": "þ",
+    "numeric": "`&#254;`",
+    "description": "small thorn, Icelandic",
+    "hex": "%FE",
+    "css": "\\\\00fe",
+    "js": "<a href='javascript:alert(&quot;\\376&quot;)'>\\376</a>"
+  },
+  {
+    "html": "`&yuml;`",
+    "symbol": "ÿ",
+    "numeric": "`&#255;`",
+    "description": "small y, dieresis or umlaut mark",
+    "hex": "%FF",
+    "css": "\\\\00ff",
+    "js": "<a href='javascript:alert(&quot;\\377&quot;)'>\\377</a>"
+  },
+  {
+    "html": "`&OElig;`",
+    "symbol": "Œ",
+    "numeric": "`&#338;`",
+    "description": "latin capital ligature oe",
+    "hex": "u+0152 ISOlat2",
+    "css": "\\\\0152",
+    "js": "<a href='javascript:alert(&quot;\\u0152&quot;)'>\\u0152</a>"
+  },
+  {
+    "html": "`&oelig;`",
+    "symbol": "œ",
+    "numeric": "`&#339;`",
+    "description": "latin small ligature oe",
+    "hex": "u+0153 ISOlat2",
+    "css": "\\\\0153",
+    "js": "<a href='javascript:alert(&quot;\\u0153&quot;)'>\\u0153</a>"
+  },
+  {
+    "html": "`&Scaron;`",
+    "symbol": "Š",
+    "numeric": "`&#352;`",
+    "description": "latin capital letter s with caron",
+    "hex": "u+0160 ISOlat2",
+    "css": "\\\\0160",
+    "js": "<a href='javascript:alert(&quot;\\u0160&quot;)'>\\u0160</a>"
+  },
+  {
+    "html": "`&scaron;`",
+    "symbol": "š",
+    "numeric": "`&#353;`",
+    "description": "latin small letter s with caron",
+    "hex": "u+0161 ISOlat2",
+    "css": "\\\\0161",
+    "js": "<a href='javascript:alert(&quot;\\u0161&quot;)'>\\u0161</a>"
+  },
+  {
+    "html": "`&Yuml;`",
+    "symbol": "Ÿ",
+    "numeric": "`&#376;`",
+    "description": "latin capital letter y with diaeresis",
+    "hex": "u+0178 ISOlat2",
+    "css": "\\\\0178",
+    "js": "<a href='javascript:alert(&quot;\\u0178&quot;)'>\\u0178</a>"
+  },
+  {
+    "html": "`&fnof;`",
+    "symbol": "ƒ",
+    "numeric": "`&#402;`",
+    "description": "latin small f with hook",
+    "hex": "u+0192 ISOtech",
+    "css": "\\\\0192",
+    "js": "<a href='javascript:alert(&quot;\\u0192&quot;)'>\\u0192</a>"
+  },
+  {
+    "html": "`&circ;`",
+    "symbol": "ˆ",
+    "numeric": "",
+    "description": "modifier letter circumflex accent",
+    "hex": "u+02C6 ISOpub",
+    "css": "\\\\02c6",
+    "js": "<a href='javascript:alert(&quot;\\u02c6&quot;)'>\\u02c6</a>"
+  },
+  {
+    "html": "`&tilde;`",
+    "symbol": "˜",
+    "numeric": "",
+    "description": "small tilde",
+    "hex": "u+02DC ISOdia",
+    "css": "\\\\02dc",
+    "js": "<a href='javascript:alert(&quot;\\u02dc&quot;)'>\\u02dc</a>"
+  },
+  {
+    "html": "`&Alpha;`",
+    "symbol": "Α",
+    "numeric": "`&#913;`",
+    "description": "greek capital letter alpha",
+    "hex": "u+0391",
+    "css": "\\\\0391",
+    "js": "<a href='javascript:alert(&quot;\\u0391&quot;)'>\\u0391</a>"
+  },
+  {
+    "html": "`&Beta;`",
+    "symbol": "Β",
+    "numeric": "`&#914;`",
+    "description": "greek capital letter beta",
+    "hex": "u+0392",
+    "css": "\\\\0392",
+    "js": "<a href='javascript:alert(&quot;\\u0392&quot;)'>\\u0392</a>"
+  },
+  {
+    "html": "`&Gamma;`",
+    "symbol": "Γ",
+    "numeric": "`&#915;`",
+    "description": "greek capital letter gamma",
+    "hex": "u+0393 ISOgrk3",
+    "css": "\\\\0393",
+    "js": "<a href='javascript:alert(&quot;\\u0395&quot;)'>\\u0395</a>"
+  },
+  {
+    "html": "`&Delta;`",
+    "symbol": "Δ",
+    "numeric": "`&#916;`",
+    "description": "greek capital letter delta",
+    "hex": "u+0394 ISOgrk3",
+    "css": "\\\\0394",
+    "js": "<a href='javascript:alert(&quot;\\u0394&quot;)'>\\u0394</a>"
+  },
+  {
+    "html": "`&Epsilon;`",
+    "symbol": "Ε",
+    "numeric": "`&#917;`",
+    "description": "greek capital letter epsilon",
+    "hex": "u+0395",
+    "css": "\\\\0395",
+    "js": "<a href='javascript:alert(&quot;\\u0395&quot;)'>\\u0395</a>"
+  },
+  {
+    "html": "`&Zeta;`",
+    "symbol": "Ζ",
+    "numeric": "`&#918;`",
+    "description": "greek capital letter zeta",
+    "hex": "u+0396",
+    "css": "\\\\0396",
+    "js": "<a href='javascript:alert(&quot;\\u0396&quot;)'>\\u0396</a>"
+  },
+  {
+    "html": "`&Eta;`",
+    "symbol": "Η",
+    "numeric": "`&#919;`",
+    "description": "greek capital letter eta",
+    "hex": "u+0397",
+    "css": "\\\\0397",
+    "js": "<a href='javascript:alert(&quot;\\u0397&quot;)'>\\u0397</a>"
+  },
+  {
+    "html": "`&Theta;`",
+    "symbol": "Θ",
+    "numeric": "`&#920;`",
+    "description": "greek capital letter theta",
+    "hex": "u+0398 ISOgrk3",
+    "css": "\\\\0398",
+    "js": "<a href='javascript:alert(&quot;\\u0398&quot;)'>\\u0398</a>"
+  },
+  {
+    "html": "`&Iota;`",
+    "symbol": "Ι",
+    "numeric": "`&#921;`",
+    "description": "greek capital letter iota",
+    "hex": "u+0399",
+    "css": "\\\\0399",
+    "js": "<a href='javascript:alert(&quot;\\u0399&quot;)'>\\u0399</a>"
+  },
+  {
+    "html": "`&Kappa;`",
+    "symbol": "Κ",
+    "numeric": "`&#922;`",
+    "description": "greek capital letter kappa",
+    "hex": "u+039A",
+    "css": "\\\\039a",
+    "js": "<a href='javascript:alert(&quot;\\u039a&quot;)'>\\u039a</a>"
+  },
+  {
+    "html": "`&Lambda;`",
+    "symbol": "Λ",
+    "numeric": "`&#923;`",
+    "description": "greek capital letter lambda",
+    "hex": "u+039B ISOgrk3",
+    "css": "\\\\039b",
+    "js": "<a href='javascript:alert(&quot;\\u039b&quot;)'>\\u039b</a>"
+  },
+  {
+    "html": "`&Mu;`",
+    "symbol": "Μ",
+    "numeric": "`&#924;`",
+    "description": "greek capital letter mu",
+    "hex": "u+039C",
+    "css": "\\\\039c",
+    "js": "<a href='javascript:alert(&quot;\\u039c&quot;)'>\\u039c</a>"
+  },
+  {
+    "html": "`&Nu;`",
+    "symbol": "Ν",
+    "numeric": "`&#925;`",
+    "description": "greek capital letter nu",
+    "hex": "u+039D",
+    "css": "\\\\039d",
+    "js": "<a href='javascript:alert(&quot;\\u039D&quot;)'>\\u039D</a>"
+  },
+  {
+    "html": "`&Xi;`",
+    "symbol": "Ξ",
+    "numeric": "`&#926;`",
+    "description": "greek capital letter xi",
+    "hex": "u+039E ISOgrk3",
+    "css": "\\\\039e",
+    "js": "<a href='javascript:alert(&quot;\\u039e&quot;)'>\\u039e</a>"
+  },
+  {
+    "html": "`&Omicron;`",
+    "symbol": "Ο",
+    "numeric": "`&#927;`",
+    "description": "greek capital letter omicron",
+    "hex": "u+039F",
+    "css": "\\\\039f",
+    "js": "<a href='javascript:alert(&quot;\\u039f&quot;)'>\\u039f</a>"
+  },
+  {
+    "html": "`&Pi;`",
+    "symbol": "Π",
+    "numeric": "`&#928;`",
+    "description": "greek capital letter pi",
+    "hex": "u+03A0 ISOgrk3",
+    "css": "\\\\03a0",
+    "js": "<a href='javascript:alert(&quot;\\u03a0&quot;)'>\\u03a0</a>"
+  },
+  {
+    "html": "`&Rho;`",
+    "symbol": "Ρ",
+    "numeric": "`&#929;`",
+    "description": "greek capital letter rho",
+    "hex": "u+03A1",
+    "css": "\\\\03a1",
+    "js": "<a href='javascript:alert(&quot;\\u03a1&quot;)'>\\u03a1</a>"
+  },
+  {
+    "html": "`&Sigma;`",
+    "symbol": "Σ",
+    "numeric": "`&#931;`",
+    "description": "greek capital letter sigma",
+    "hex": "u+03A3 ISOgrk3",
+    "css": "\\\\03a3",
+    "js": "<a href='javascript:alert(&quot;\\u03A3&quot;)'>\\u03A3</a>"
+  },
+  {
+    "html": "`&Tau;`",
+    "symbol": "Τ",
+    "numeric": "`&#932;`",
+    "description": "greek capital letter tau",
+    "hex": "u+03A4",
+    "css": "\\\\03a4",
+    "js": "<a href='javascript:alert(&quot;\\u03A4&quot;)'>\\u03A4</a>"
+  },
+  {
+    "html": "`&Upsilon;`",
+    "symbol": "Υ",
+    "numeric": "`&#933;`",
+    "description": "greek capital letter upsilon",
+    "hex": "u+03A5 ISOgrk3",
+    "css": "\\\\03a5",
+    "js": "<a href='javascript:alert(&quot;\\u03A5&quot;)'>\\u03A5</a>"
+  },
+  {
+    "html": "`&Phi;`",
+    "symbol": "Φ",
+    "numeric": "`&#934;`",
+    "description": "greek capital letter phi",
+    "hex": "u+03A6 ISOgrk3",
+    "css": "\\\\03a6",
+    "js": "<a href='javascript:alert(&quot;\\u03A6&quot;)'>\\u03A6</a>"
+  },
+  {
+    "html": "`&Chi;`",
+    "symbol": "Χ",
+    "numeric": "`&#935;`",
+    "description": "greek capital letter chi",
+    "hex": "u+03A7",
+    "css": "\\\\03a7",
+    "js": "<a href='javascript:alert(&quot;\\u03A7&quot;)'>\\u03A7</a>"
+  },
+  {
+    "html": "`&Psi;`",
+    "symbol": "Ψ",
+    "numeric": "`&#936;`",
+    "description": "greek capital letter psi",
+    "hex": "u+03A8 ISOgrk3",
+    "css": "\\\\03a8",
+    "js": "<a href='javascript:alert(&quot;\\u03A8&quot;)'>\\u03A8</a>"
+  },
+  {
+    "html": "`&Omega;`",
+    "symbol": "Ω",
+    "numeric": "`&#937;`",
+    "description": "greek capital letter omega",
+    "hex": "u+03A9 ISOgrk3",
+    "css": "\\\\03a9",
+    "js": "<a href='javascript:alert(&quot;\\u03A9&quot;)'>\\u03A9</a>"
+  },
+  {
+    "html": "`&alpha;`",
+    "symbol": "α",
+    "numeric": "`&#945;`",
+    "description": "greek small letter alpha",
+    "hex": "u+03B1 ISOgrk3",
+    "css": "\\\\03b1",
+    "js": "<a href='javascript:alert(&quot;\\u03b1&quot;)'>\\u03b1</a>"
+  },
+  {
+    "html": "`&beta;`",
+    "symbol": "β",
+    "numeric": "`&#946;`",
+    "description": "greek small letter beta",
+    "hex": "u+03B2 ISOgrk3",
+    "css": "\\\\03b2",
+    "js": "<a href='javascript:alert(&quot;\\u03b2&quot;)'>\\u03b2</a>"
+  },
+  {
+    "html": "`&gamma;`",
+    "symbol": "γ",
+    "numeric": "`&#947;`",
+    "description": "greek small letter gamma",
+    "hex": "u+03B3 ISOgrk3",
+    "css": "\\\\03b3",
+    "js": "<a href='javascript:alert(&quot;\\u03b3&quot;)'>\\u03b3</a>"
+  },
+  {
+    "html": "`&delta;`",
+    "symbol": "δ",
+    "numeric": "`&#948;`",
+    "description": "greek small letter delta",
+    "hex": "u+03B4 ISOgrk3",
+    "css": "\\\\03b4",
+    "js": "<a href='javascript:alert(&quot;\\u03b4&quot;)'>\\u03b4</a>"
+  },
+  {
+    "html": "`&epsilon;`",
+    "symbol": "ε",
+    "numeric": "`&#949;`",
+    "description": "greek small letter epsilon",
+    "hex": "u+03B5 ISOgrk3",
+    "css": "\\\\03b5",
+    "js": "<a href='javascript:alert(&quot;\\u03b5&quot;)'>\\u03b5</a>"
+  },
+  {
+    "html": "`&zeta;`",
+    "symbol": "ζ",
+    "numeric": "`&#950;`",
+    "description": "greek small letter zeta",
+    "hex": "u+03B6 ISOgrk3",
+    "css": "\\\\03b6",
+    "js": "<a href='javascript:alert(&quot;\\u03b6&quot;)'>\\u03b6</a>"
+  },
+  {
+    "html": "`&eta;`",
+    "symbol": "η",
+    "numeric": "`&#951;`",
+    "description": "greek small letter eta",
+    "hex": "u+03B7 ISOgrk3",
+    "css": "\\\\03b7",
+    "js": "<a href='javascript:alert(&quot;\\u03b7&quot;)'>\\u03b7</a>"
+  },
+  {
+    "html": "`&theta;`",
+    "symbol": "θ",
+    "numeric": "`&#952;`",
+    "description": "greek small letter theta",
+    "hex": "u+03B8 ISOgrk3",
+    "css": "\\\\03b8",
+    "js": "<a href='javascript:alert(&quot;\\u03b8&quot;)'>\\u03b8</a>"
+  },
+  {
+    "html": "`&iota;`",
+    "symbol": "ι",
+    "numeric": "`&#953;`",
+    "description": "greek small letter iota",
+    "hex": "u+03B9 ISOgrk3",
+    "css": "\\\\03b9",
+    "js": "<a href='javascript:alert(&quot;\\u03b9&quot;)'>\\u03b9</a>"
+  },
+  {
+    "html": "`&kappa;`",
+    "symbol": "κ",
+    "numeric": "`&#954;`",
+    "description": "greek small letter kappa",
+    "hex": "u+03BA ISOgrk3",
+    "css": "\\\\03ba",
+    "js": "<a href='javascript:alert(&quot;\\u03ba&quot;)'>\\u03ba</a>"
+  },
+  {
+    "html": "`&lambda;`",
+    "symbol": "λ",
+    "numeric": "`&#955;`",
+    "description": "greek small letter lambda",
+    "hex": "u+03BB ISOgrk3",
+    "css": "\\\\03bb",
+    "js": "<a href='javascript:alert(&quot;\\u03bb&quot;)'>\\u03bb</a>"
+  },
+  {
+    "html": "`&mu;`",
+    "symbol": "μ",
+    "numeric": "`&#956;`",
+    "description": "greek small letter mu",
+    "hex": "u+03BC ISOgrk3",
+    "css": "\\\\03bc",
+    "js": "<a href='javascript:alert(&quot;\\u03bc&quot;)'>\\u03bc</a>"
+  },
+  {
+    "html": "`&nu;`",
+    "symbol": "ν",
+    "numeric": "`&#957;`",
+    "description": "greek small letter nu",
+    "hex": "u+03BD ISOgrk3",
+    "css": "\\\\03bd",
+    "js": "<a href='javascript:alert(&quot;\\u03bd&quot;)'>\\u03bd</a>"
+  },
+  {
+    "html": "`&xi;`",
+    "symbol": "ξ",
+    "numeric": "`&#958;`",
+    "description": "greek small letter xi",
+    "hex": "u+03BE ISOgrk3",
+    "css": "\\\\03be",
+    "js": "<a href='javascript:alert(&quot;\\u03be&quot;)'>\\u03be</a>"
+  },
+  {
+    "html": "`&omicron;`",
+    "symbol": "ο",
+    "numeric": "`&#959;`",
+    "description": "greek small letter omicron",
+    "hex": "u+03BF NEW",
+    "css": "\\\\03bf",
+    "js": "<a href='javascript:alert(&quot;\\u03bf&quot;)'>\\u03bf</a>"
+  },
+  {
+    "html": "`&pi;`",
+    "symbol": "π",
+    "numeric": "`&#960;`",
+    "description": "greek small letter pi",
+    "hex": "u+03C0 ISOgrk3",
+    "css": "\\\\03c0",
+    "js": "<a href='javascript:alert(&quot;\\u03c0&quot;)'>\\u03c0</a>"
+  },
+  {
+    "html": "`&rho;`",
+    "symbol": "ρ",
+    "numeric": "`&#961;`",
+    "description": "greek small letter rho",
+    "hex": "u+03C1 ISOgrk3",
+    "css": "\\\\03c1",
+    "js": "<a href='javascript:alert(&quot;\\u03c1&quot;)'>\\u03c1</a>"
+  },
+  {
+    "html": "`&sigmaf;`",
+    "symbol": "ς",
+    "numeric": "`&#962;`",
+    "description": "greek small letter final sigma",
+    "hex": "u+03C2 ISOgrk3",
+    "css": "\\\\03C2",
+    "js": "<a href='javascript:alert(&quot;\\u03c2&quot;)'>\\u03c2</a>"
+  },
+  {
+    "html": "`&sigma;`",
+    "symbol": "σ",
+    "numeric": "`&#963;`",
+    "description": "greek small letter sigma",
+    "hex": "u+03C3 ISOgrk3",
+    "css": "\\\\03C3",
+    "js": "<a href='javascript:alert(&quot;\\u03c3&quot;)'>\\u03c3</a>"
+  },
+  {
+    "html": "`&tau;`",
+    "symbol": "τ",
+    "numeric": "`&#964;`",
+    "description": "greek small letter tau",
+    "hex": "u+03C4 ISOgrk3",
+    "css": "\\\\03C4",
+    "js": "<a href='javascript:alert(&quot;\\u03c4&quot;)'>\\u03c4</a>"
+  },
+  {
+    "html": "`&upsilon;`",
+    "symbol": "υ",
+    "numeric": "`&#965;`",
+    "description": "greek small letter upsilon",
+    "hex": "u+03C5 ISOgrk3",
+    "css": "\\\\03C5",
+    "js": "<a href='javascript:alert(&quot;\\u03c5&quot;)'>\\u03c5</a>"
+  },
+  {
+    "html": "`&phi;`",
+    "symbol": "φ",
+    "numeric": "`&#966;`",
+    "description": "greek small letter phi",
+    "hex": "u+03C6 ISOgrk3",
+    "css": "\\\\03C6",
+    "js": "<a href='javascript:alert(&quot;\\03c6&quot;)'>\\03c6</a>"
+  },
+  {
+    "html": "`&chi;`",
+    "symbol": "χ",
+    "numeric": "`&#967;`",
+    "description": "greek small letter chi",
+    "hex": "u+03C7 ISOgrk3",
+    "css": "\\\\03C7",
+    "js": "<a href='javascript:alert(&quot;\\u03c7&quot;)'>\\u03c7</a>"
+  },
+  {
+    "html": "`&psi;`",
+    "symbol": "ψ",
+    "numeric": "`&#968;`",
+    "description": "greek small letter psi",
+    "hex": "u+03C8 ISOgrk3",
+    "css": "\\\\03C8",
+    "js": "<a href='javascript:alert(&quot;\\u03c8&quot;)'>\\u03c8</a>"
+  },
+  {
+    "html": "`&omega;`",
+    "symbol": "ω",
+    "numeric": "`&#969;`",
+    "description": "greek small letter omega",
+    "hex": "u+03C9 ISOgrk3",
+    "css": "\\\\03C9",
+    "js": "<a href='javascript:alert(&quot;\\u03c9&quot;)'>\\u03c9</a>"
+  },
+  {
+    "html": "`&thetasym;`",
+    "symbol": "ϑ",
+    "numeric": "`&#977;`",
+    "description": "greek small letter theta symbol",
+    "hex": "u+03D1 NEW",
+    "css": "\\\\03D1",
+    "js": "<a href='javascript:alert(&quot;\\u03D1&quot;)'>\\u03D1</a>"
+  },
+  {
+    "html": "`&upsih;`",
+    "symbol": "ϒ",
+    "numeric": "`&#978;`",
+    "description": "greek upsilon with hook symbol",
+    "hex": "u+03D2 NEW",
+    "css": "\\\\03D2",
+    "js": "<a href='javascript:alert(&quot;\\u03D2&quot;)'>\\u03D2</a>"
+  },
+  {
+    "html": "`&piv;`",
+    "symbol": "ϖ",
+    "numeric": "`&#982;`",
+    "description": "greek pi symbol",
+    "hex": "u+03D6 ISOgrk3",
+    "css": "\\\\03D6",
+    "js": "<a href='javascript:alert(&quot;\\u03D6&quot;)'>\\u03D6</a>"
+  },
+  {
+    "html": "`&ensp;`",
+    "symbol": "",
+    "numeric": "`&#8194;`",
+    "description": "en space",
+    "hex": "u+2002 ISOpub",
+    "css": "\\\\2002",
+    "js": "<a href='javascript:alert(&quot;\\u2002&quot;)'>\\u2002</a>"
+  },
+  {
+    "html": "`&emsp;`",
+    "symbol": "",
+    "numeric": "`&#8195;`",
+    "description": "em space",
+    "hex": "u+2003 ISOpub",
+    "css": "\\\\2003",
+    "js": "<a href='javascript:alert(&quot;\\u2003&quot;)'>\\u2003</a>"
+  },
+  {
+    "html": "`&thinsp;`",
+    "symbol": "",
+    "numeric": "`&#8201;`",
+    "description": "thin space",
+    "hex": "u+2009 ISOpub",
+    "css": "\\\\2009",
+    "js": "<a href='javascript:alert(&quot;\\u2009&quot;)'>\\u2009</a>"
+  },
+  {
+    "html": "`&zwnj;`",
+    "symbol": "‌",
+    "numeric": "`&#8204;`",
+    "description": "zero width non-joiner",
+    "hex": "u+200C NEW RFC 2070",
+    "css": "\\\\200C",
+    "js": "<a href='javascript:alert(&quot;\\u200C&quot;)'>\\u200C</a>"
+  },
+  {
+    "html": "`&zwj;`",
+    "symbol": "‍",
+    "numeric": "`&#8205;`",
+    "description": "zero width joiner",
+    "hex": "u+200D NEW RFC 2070",
+    "css": "\\\\200D",
+    "js": "<a href='javascript:alert(&quot;\\u200d&quot;)'>\\u200d</a>"
+  },
+  {
+    "html": "`&lrm;`",
+    "symbol": "‎",
+    "numeric": "`&#8206;`",
+    "description": "left-to-right mark",
+    "hex": "u+200E NEW RFC 2070",
+    "css": "\\\\200E",
+    "js": "<a href='javascript:alert(&quot;\\u200e&quot;)'>\\u200e</a>"
+  },
+  {
+    "html": "`&rlm;`",
+    "symbol": "‏",
+    "numeric": "`&#8207;`",
+    "description": "right-to-left mark",
+    "hex": "u+200F NEW RFC 2070",
+    "css": "\\\\200F",
+    "js": "<a href='javascript:alert(&quot;\\u200f&quot;)'>\\u200f</a>"
+  },
+  {
+    "html": "`&ndash;`",
+    "symbol": "–",
+    "numeric": "`&#8211;`",
+    "description": "en dash",
+    "hex": "u+2013 ISOpub",
+    "css": "\\\\2013",
+    "js": "<a href='javascript:alert(&quot;\\u2013&quot;)'>\\u2013</a>"
+  },
+  {
+    "html": "`&mdash;`",
+    "symbol": "—",
+    "numeric": "`&#8212;`",
+    "description": "em dash",
+    "hex": "u+2014 ISOpub",
+    "css": "\\\\2014",
+    "js": "<a href='javascript:alert(&quot;\\u2014&quot;)'>\\u2014</a>"
+  },
+  {
+    "html": "`&lsquo;`",
+    "symbol": "‘",
+    "numeric": "`&#8216;`",
+    "description": "left single quotation mark",
+    "hex": "u+2018 ISOnum",
+    "css": "\\\\2018",
+    "js": "<a href='javascript:alert(&quot;\\u2018&quot;)'>\\u2018</a>"
+  },
+  {
+    "html": "`&rsquo;`",
+    "symbol": "’",
+    "numeric": "`&#8217;`",
+    "description": "right single quotation mark",
+    "hex": "u+2019 ISOnum",
+    "css": "\\\\2019",
+    "js": "<a href='javascript:alert(&quot;\\u2019&quot;)'>\\u2019</a>"
+  },
+  {
+    "html": "`&sbquo;`",
+    "symbol": "‚",
+    "numeric": "`&#8218;`",
+    "description": "single low-9 quotation mark",
+    "hex": "u+201A NEW",
+    "css": "\\\\201A",
+    "js": "<a href='javascript:alert(&quot;\\u201a&quot;)'>\\u201a</a>"
+  },
+  {
+    "html": "`&ldquo;`",
+    "symbol": "“",
+    "numeric": "`&#8220;`",
+    "description": "left double quotation mark",
+    "hex": "u+201C ISOnum",
+    "css": "\\\\201C",
+    "js": "<a href='javascript:alert(&quot;\\u201c&quot;)'>\\u201c</a>"
+  },
+  {
+    "html": "`&rdquo;`",
+    "symbol": "”",
+    "numeric": "`&#8221;`",
+    "description": "right double quotation mark",
+    "hex": "u+201D ISOnum",
+    "css": "\\\\201D",
+    "js": "<a href='javascript:alert(&quot;\\u201d&quot;)'>\\u201d</a>"
+  },
+  {
+    "html": "`&bdquo;`",
+    "symbol": "„",
+    "numeric": "`&#8222;`",
+    "description": "double low-9 quotation mark",
+    "hex": "u+201E NEW",
+    "css": "\\\\201E",
+    "js": "<a href='javascript:alert(&quot;\\u201e&quot;)'>\\u201e</a>"
+  },
+  {
+    "html": "`&dagger;`",
+    "symbol": "†",
+    "numeric": "`&#8224;`",
+    "description": "dagger",
+    "hex": "u+2020 ISOpub",
+    "css": "\\\\2020",
+    "js": "<a href='javascript:alert(&quot;\\u2020&quot;)'>\\u2020</a>"
+  },
+  {
+    "html": "`&Dagger;`",
+    "symbol": "‡",
+    "numeric": "`&#8225;`",
+    "description": "double dagger",
+    "hex": "u+2021 ISOpub",
+    "css": "\\\\2021",
+    "js": "<a href='javascript:alert(&quot;\\u2021&quot;)'>\\u2021</a>"
+  },
+  {
+    "html": "`&permil;`",
+    "symbol": "‰",
+    "numeric": "`&#8240;`",
+    "description": "per mille sign",
+    "hex": "u+2030 ISOtech",
+    "css": "\\\\2030",
+    "js": "<a href='javascript:alert(&quot;\\u2030&quot;)'>\\u2030</a>"
+  },
+  {
+    "html": "`&lsaquo;`",
+    "symbol": "‹",
+    "numeric": "`&#8249;`",
+    "description": "single left-pointing angle quotation mark",
+    "hex": "u+2039 ISO proposed",
+    "css": "\\\\2039",
+    "js": "<a href='javascript:alert(&quot;\\u2039&quot;)'>\\u2039</a>"
+  },
+  {
+    "html": "`&rsaquo;`",
+    "symbol": "›",
+    "numeric": "`&#8250;`",
+    "description": "single right-pointing angle quotation mark",
+    "hex": "u+203A ISO proposed",
+    "css": "\\\\203A",
+    "js": "<a href='javascript:alert(&quot;\\u203a&quot;)'>\\u203a</a>"
+  },
+  {
+    "html": "`&bull;`",
+    "symbol": "•",
+    "numeric": "`&#8226;`",
+    "description": "bullet, aka. black small circle",
+    "hex": "u+2022 ISOpub",
+    "css": "\\\\2022",
+    "js": "<a href='javascript:alert(&quot;\\u2219&quot;)'>\\u2219</a>"
+  },
+  {
+    "html": "`&hellip;`",
+    "symbol": "…",
+    "numeric": "`&#8230;`",
+    "description": "horizontal ellipsis, aka three dot leader",
+    "hex": "u+2026 ISOpub",
+    "css": "\\\\2026",
+    "js": "<a href='javascript:alert(&quot;\\u2026&quot;)'>\\u2026</a>"
+  },
+  {
+    "html": "`&prime;`",
+    "symbol": "′",
+    "numeric": "`&#8242;`",
+    "description": "prime, aka minutes, aka feet",
+    "hex": "u+2032 ISOtech",
+    "css": "\\\\2032",
+    "js": "<a href='javascript:alert(&quot;\\u2032&quot;)'>\\u2032</a>"
+  },
+  {
+    "html": "`&Prime;`",
+    "symbol": "″",
+    "numeric": "`&#8243;`",
+    "description": "double prime, aka seconds, aka inches",
+    "hex": "u+2033 ISOtech",
+    "css": "\\\\2033",
+    "js": "<a href='javascript:alert(&quot;\\u2033&quot;)'>\\u2033</a>"
+  },
+  {
+    "html": "`&oline;`",
+    "symbol": "‾",
+    "numeric": "`&#8254;`",
+    "description": "overline, aka spacing overscore",
+    "hex": "u+203E NEW",
+    "css": "\\\\203E",
+    "js": "<a href='javascript:alert(&quot;\\u203e&quot;)'>\\u203e</a>"
+  },
+  {
+    "html": "`&frasl;`",
+    "symbol": "⁄",
+    "numeric": "`&#8260;`",
+    "description": "fraction slash",
+    "hex": "u+2044 NEW",
+    "css": "\\\\2044",
+    "js": "<a href='javascript:alert(&quot;\\u8260&quot;)'>\\u8260</a>"
+  },
+  {
+    "html": "`&weierp;`",
+    "symbol": "℘",
+    "numeric": "`&#8472;`",
+    "description": "script capital P, aka power set, aka Weierstrass p",
+    "hex": "u+2118 ISOamso",
+    "css": "\\\\2118",
+    "js": "<a href='javascript:alert(&quot;\\u2118&quot;)'>\\u2118</a>"
+  },
+  {
+    "html": "`&image;`",
+    "symbol": "ℑ",
+    "numeric": "`&#8465;`",
+    "description": "blackletter capital I, aka imaginary part",
+    "hex": "u+2111 ISOamso",
+    "css": "\\\\2111",
+    "js": "<a href='javascript:alert(&quot;\\u2111&quot;)'>\\u2111</a>"
+  },
+  {
+    "html": "`&real;`",
+    "symbol": "ℜ",
+    "numeric": "`&#8476;`",
+    "description": "blackletter capital R, aka real part symbol",
+    "hex": "u+211C ISOamso",
+    "css": "\\\\211C",
+    "js": "<a href='javascript:alert(&quot;\\u211c&quot;)'>\\u211c</a>"
+  },
+  {
+    "html": "`&trade;`",
+    "symbol": "™",
+    "numeric": "`&#8482;`",
+    "description": "trade mark sign",
+    "hex": "u+2122 ISOnum",
+    "css": "\\\\2122",
+    "js": "<a href='javascript:alert(&quot;\\u2122&quot;)'>\\u2122</a>"
+  },
+  {
+    "html": "`&alefsym;`",
+    "symbol": "ℵ",
+    "numeric": "`&#8501;`",
+    "description": "alef symbol",
+    "hex": "u+2135 NEW",
+    "css": "\\\\2135",
+    "js": "<a href='javascript:alert(&quot;\\u&quot;)'>\\u</a>"
+  },
+  {
+    "html": "`&larr;`",
+    "symbol": "←",
+    "numeric": "`&#8592;`",
+    "description": "leftwards arrow",
+    "hex": "u+2190 ISOnum",
+    "css": "\\\\2190",
+    "js": "<a href='javascript:alert(&quot;\\u2190&quot;)'>\\u2190</a>"
+  },
+  {
+    "html": "`&uarr;`",
+    "symbol": "↑",
+    "numeric": "`&#8593;`",
+    "description": "upwards arrow",
+    "hex": "u+2191 ISOnum",
+    "css": "\\\\2191",
+    "js": "<a href='javascript:alert(&quot;\\u2191&quot;)'>\\u2191</a>"
+  },
+  {
+    "html": "`&rarr;`",
+    "symbol": "→",
+    "numeric": "`&#8594;`",
+    "description": "rightwards arrow",
+    "hex": "u+2192 ISOnum",
+    "css": "\\\\2192",
+    "js": "<a href='javascript:alert(&quot;\\u2192&quot;)'>\\u2192</a>"
+  },
+  {
+    "html": "`&darr;`",
+    "symbol": "↓",
+    "numeric": "`&#8595;`",
+    "description": "downwards arrow",
+    "hex": "u+2193 ISOnum",
+    "css": "\\\\2193",
+    "js": "<a href='javascript:alert(&quot;\\u2193&quot;)'>\\u2193</a>"
+  },
+  {
+    "html": "`&harr;`",
+    "symbol": "↔",
+    "numeric": "`&#8596;`",
+    "description": "left right arrow",
+    "hex": "u+2194 ISOamsa",
+    "css": "\\\\2194",
+    "js": "<a href='javascript:alert(&quot;\\u2194&quot;)'>\\u2194</a>"
+  },
+  {
+    "html": "`&crarr;`",
+    "symbol": "↵",
+    "numeric": "`&#8629;`",
+    "description": "downwards arrow with corner leftwards, aka carriage return",
+    "hex": "u+21B5 NEW",
+    "css": "\\\\21B5",
+    "js": "<a href='javascript:alert(&quot;\\u21b5&quot;)'>\\u21b5</a>"
+  },
+  {
+    "html": "`&lArr;`",
+    "symbol": "⇐",
+    "numeric": "`&#8656;`",
+    "description": "leftwards double arrow can be used for ‘is implied by’",
+    "hex": "u+21D0 ISOtech",
+    "css": "\\\\21D0",
+    "js": "<a href='javascript:alert(&quot;\\u21d0&quot;)'>\\u21d0</a>"
+  },
+  {
+    "html": "`&uArr;`",
+    "symbol": "⇑",
+    "numeric": "`&#8657;`",
+    "description": "upwards double arrow",
+    "hex": "u+21D1 ISOamsa",
+    "css": "\\\\21D1",
+    "js": "<a href='javascript:alert(&quot;\\u21d1&quot;)'>\\u21d1</a>"
+  },
+  {
+    "html": "`&rArr;`",
+    "symbol": "⇒",
+    "numeric": "`&#8658;`",
+    "description": "rightwards double arrow",
+    "hex": "u+21D2 ISOtech",
+    "css": "\\\\21D2",
+    "js": "<a href='javascript:alert(&quot;\\u21d2&quot;)'>\\u21d2</a>"
+  },
+  {
+    "html": "`&dArr;`",
+    "symbol": "⇓",
+    "numeric": "`&#8659;`",
+    "description": "downwards double arrow",
+    "hex": "u+21D3 ISOamsa",
+    "css": "\\\\21D3",
+    "js": "<a href='javascript:alert(&quot;\\ud1d3&quot;)'>\\ud1d3</a>"
+  },
+  {
+    "html": "`&hArr;`",
+    "symbol": "⇔",
+    "numeric": "`&#8660;`",
+    "description": "left right double arrow",
+    "hex": "u+21D4 ISOamsa",
+    "css": "\\\\21D4",
+    "js": "<a href='javascript:alert(&quot;\\u21d4&quot;)'>\\u21d4</a>"
+  },
+  {
+    "html": "",
+    "symbol": "◄",
+    "numeric": "`&#9668;`",
+    "description": "black left pointing triangle",
+    "hex": "U+25C0",
+    "css": "\\\\25C0",
+    "js": "<a href='javascript:alert(&quot;\\u25c0&quot;)'>\\u25c0</a>"
+  },
+  {
+    "html": "",
+    "symbol": "►",
+    "numeric": "`&#9658;`",
+    "description": "black right pointing triangle",
+    "hex": "u+25B6",
+    "css": "\\\\25b6",
+    "js": "<a href='javascript:alert(&quot;\\u25b6&quot;)'>\\u25b6</a>"
+  },
+  {
+    "html": "",
+    "symbol": "▲",
+    "numeric": "`&#9650;`",
+    "description": "black up pointing triangle",
+    "hex": "u+25B2",
+    "css": "\\\\25b2",
+    "js": "<a href='javascript:alert(&quot;\\25b2&quot;)'>\\25b2</a>"
+  },
+  {
+    "html": "",
+    "symbol": "▼",
+    "numeric": "`&#9660;`",
+    "description": "black down pointing triangle",
+    "hex": "u+25BC",
+    "css": "\\\\25bc",
+    "js": "<a href='javascript:alert(&quot;\\25bc&quot;)'>\\25bc</a>"
+  },
+  {
+    "html": "`&forall;`",
+    "symbol": "∀",
+    "numeric": "`&#8704;`",
+    "description": "for all",
+    "hex": "u+2200 ISOtech",
+    "css": "\\\\2200",
+    "js": "<a href='javascript:alert(&quot;\\u2200&quot;)'>\\u2200</a>"
+  },
+  {
+    "html": "`&part;`",
+    "symbol": "∂",
+    "numeric": "`&#8706;`",
+    "description": "partial differential",
+    "hex": "u+2202 ISOtech",
+    "css": "\\\\2202",
+    "js": "<a href='javascript:alert(&quot;\\u2202&quot;)'>\\u2202</a>"
+  },
+  {
+    "html": "`&exist;`",
+    "symbol": "∃",
+    "numeric": "`&#8707;`",
+    "description": "there exists",
+    "hex": "u+2203 ISOtech",
+    "css": "\\\\2203",
+    "js": "<a href='javascript:alert(&quot;\\u2203&quot;)'>\\u2203</a>"
+  },
+  {
+    "html": "`&empty;`",
+    "symbol": "∅",
+    "numeric": "`&#8709;`",
+    "description": "empty set, aka null set, aka diameter",
+    "hex": "u+2205 ISOamso",
+    "css": "\\\\2205",
+    "js": "<a href='javascript:alert(&quot;\\u2205&quot;)'>\\u2205</a>"
+  },
+  {
+    "html": "`&nabla;`",
+    "symbol": "∇",
+    "numeric": "`&#8711;`",
+    "description": "nabla, aka bakad difference",
+    "hex": "u+2207 ISOtech",
+    "css": "\\\\2207",
+    "js": "<a href='javascript:alert(&quot;\\u2207&quot;)'>\\u2207</a>"
+  },
+  {
+    "html": "`&isin;`",
+    "symbol": "∈",
+    "numeric": "`&#8712;`",
+    "description": "element of",
+    "hex": "u+2208 ISOtech",
+    "css": "\\\\2208",
+    "js": "<a href='javascript:alert(&quot;\\u2208&quot;)'>\\u2208</a>"
+  },
+  {
+    "html": "`&notin;`",
+    "symbol": "∉",
+    "numeric": "`&#8713;`",
+    "description": "not an element of",
+    "hex": "u+2209 ISOtech",
+    "css": "\\\\2209",
+    "js": "<a href='javascript:alert(&quot;\\u2209&quot;)'>\\u2209</a>"
+  },
+  {
+    "html": "`&ni;`",
+    "symbol": "∋",
+    "numeric": "`&#8715;`",
+    "description": "contains as member",
+    "hex": "u+220B ISOtech",
+    "css": "\\\\220B",
+    "js": "<a href='javascript:alert(&quot;\\u220b&quot;)'>\\u220b</a>"
+  },
+  {
+    "html": "`&prod;`",
+    "symbol": "∏",
+    "numeric": "`&#8719;`",
+    "description": "n-ary product, aka product sign",
+    "hex": "u+220F ISOamsb",
+    "css": "\\\\220F",
+    "js": "<a href='javascript:alert(&quot;\\u03a0&quot;)'>\\u03a0</a>"
+  },
+  {
+    "html": "`&sum;`",
+    "symbol": "∑",
+    "numeric": "`&#8721;`",
+    "description": "n-ary sumation",
+    "hex": "u+2211 ISOamsb",
+    "css": "\\\\2211",
+    "js": "<a href='javascript:alert(&quot;\\u03a3&quot;)'>\\u03a3</a>"
+  },
+  {
+    "html": "`&minus;`",
+    "symbol": "−",
+    "numeric": "`&#8722;`",
+    "description": "minus sign",
+    "hex": "u+2212 ISOtech",
+    "css": "\\\\2212",
+    "js": "<a href='javascript:alert(&quot;\\u2212&quot;)'>\\u2212</a>"
+  },
+  {
+    "html": "`&lowast;`",
+    "symbol": "∗",
+    "numeric": "`&#8727;`",
+    "description": "asterisk operator",
+    "hex": "u+2217 ISOtech",
+    "css": "\\\\2217",
+    "js": "<a href='javascript:alert(&quot;\\u2217&quot;)'>\\u2217</a>"
+  },
+  {
+    "html": "`&radic;`",
+    "symbol": "√",
+    "numeric": "`&#8730;`",
+    "description": "square root, aka radical sign",
+    "hex": "u+221A ISOtech",
+    "css": "\\\\221A",
+    "js": "<a href='javascript:alert(&quot;\\u221a&quot;)'>\\u221a</a>"
+  },
+  {
+    "html": "`&prop;`",
+    "symbol": "∝",
+    "numeric": "`&#8733;`",
+    "description": "proportional to",
+    "hex": "u+221D ISOtech",
+    "css": "\\\\221D",
+    "js": "<a href='javascript:alert(&quot;\\u221d&quot;)'>\\u221d</a>"
+  },
+  {
+    "html": "`&infin;`",
+    "symbol": "∞",
+    "numeric": "`&#8734;`",
+    "description": "infinity",
+    "hex": "u+221E ISOtech",
+    "css": "\\\\221E",
+    "js": "<a href='javascript:alert(&quot;\\u221e&quot;)'>\\u221e</a>"
+  },
+  {
+    "html": "`&ang;`",
+    "symbol": "∠",
+    "numeric": "`&#8736;`",
+    "description": "angle",
+    "hex": "u+2220 ISOamso",
+    "css": "\\\\2220",
+    "js": "<a href='javascript:alert(&quot;\\u2220&quot;)'>\\u2220</a>"
+  },
+  {
+    "html": "`&and;`",
+    "symbol": "⊥",
+    "numeric": "`&#8869;`",
+    "description": "logical and, aka wedge",
+    "hex": "u+2227 ISOtech",
+    "css": "\\\\2227",
+    "js": "<a href='javascript:alert(&quot;\\u2227&quot;)'>\\u2227</a>"
+  },
+  {
+    "html": "`&or;`",
+    "symbol": "⊦",
+    "numeric": "`&#8870;`",
+    "description": "logical or, aka vee",
+    "hex": "u+2228 ISOtech",
+    "css": "\\\\2228",
+    "js": "<a href='javascript:alert(&quot;\\u2228&quot;)'>\\u2228</a>"
+  },
+  {
+    "html": "`&cap;`",
+    "symbol": "∩",
+    "numeric": "`&#8745;`",
+    "description": "intersection, aka cap",
+    "hex": "u+2229 ISOtech",
+    "css": "\\\\2229",
+    "js": "<a href='javascript:alert(&quot;\\u2229&quot;)'>\\u2229</a>"
+  },
+  {
+    "html": "`&cup;`",
+    "symbol": "∪",
+    "numeric": "`&#8746;`",
+    "description": "union, aka cup",
+    "hex": "u+222A ISOtech",
+    "css": "\\\\222A",
+    "js": "<a href='javascript:alert(&quot;\\u222a&quot;)'>\\u222a</a>"
+  },
+  {
+    "html": "`&int;`",
+    "symbol": "∫",
+    "numeric": "`&#8747;`",
+    "description": "integral",
+    "hex": "u+222B ISOtech",
+    "css": "\\\\222B",
+    "js": "<a href='javascript:alert(&quot;\\u222b&quot;)'>\\u222b</a>"
+  },
+  {
+    "html": "`&there4;`",
+    "symbol": "∴",
+    "numeric": "`&#8756;`",
+    "description": "therefore",
+    "hex": "u+2234 ISOtech",
+    "css": "\\\\2234",
+    "js": "<a href='javascript:alert(&quot;\\u2234&quot;)'>\\u2234</a>"
+  },
+  {
+    "html": "`&sim;`",
+    "symbol": "∼",
+    "numeric": "`&#8764;`",
+    "description": "tilde",
+    "hex": "u+223C ISOtech",
+    "css": "\\\\223C",
+    "js": "<a href='javascript:alert(&quot;\\u223c&quot;)'>\\u223c</a>"
+  },
+  {
+    "html": "`&cong;`",
+    "symbol": "≅",
+    "numeric": "`&#8773;`",
+    "description": "approximately equal to",
+    "hex": "u+2245 ISOtech",
+    "css": "\\\\2245",
+    "js": "<a href='javascript:alert(&quot;\\u2245&quot;)'>\\u2245</a>"
+  },
+  {
+    "html": "`&asymp;`",
+    "symbol": "≈",
+    "numeric": "`&#8776;`",
+    "description": "almost equal to, aka asymptotic to",
+    "hex": "u+2248 ISOamsr",
+    "css": "\\\\2248",
+    "js": "<a href='javascript:alert(&quot;\\u2248&quot;)'>\\u2248</a>"
+  },
+  {
+    "html": "`&ne;`",
+    "symbol": "≠",
+    "numeric": "`&#8800;`",
+    "description": "not equal to",
+    "hex": "u+2260 ISOtech",
+    "css": "\\\\2260",
+    "js": "<a href='javascript:alert(&quot;\\u2260&quot;)'>\\u2260</a>"
+  },
+  {
+    "html": "`&equiv;`",
+    "symbol": "≡",
+    "numeric": "`&#8801;`",
+    "description": "identical to",
+    "hex": "u+2261 ISOtech",
+    "css": "\\\\2261",
+    "js": "<a href='javascript:alert(&quot;\\u2261&quot;)'>\\u2261</a>"
+  },
+  {
+    "html": "`&le;`",
+    "symbol": "≤",
+    "numeric": "`&#8804;`",
+    "description": "less-than or equal to",
+    "hex": "u+2264 ISOtech",
+    "css": "\\\\2264",
+    "js": "<a href='javascript:alert(&quot;\\u2264&quot;)'>\\u2264</a>"
+  },
+  {
+    "html": "`&ge;`",
+    "symbol": "≥",
+    "numeric": "`&#8805;`",
+    "description": "greater-than or equal to",
+    "hex": "u+2265 ISOtech",
+    "css": "\\\\2265",
+    "js": "<a href='javascript:alert(&quot;\\u2265&quot;)'>\\u2265</a>"
+  },
+  {
+    "html": "`&sub;`",
+    "symbol": "⊂",
+    "numeric": "`&#8834;`",
+    "description": "subset of",
+    "hex": "u+2282 ISOtech",
+    "css": "\\\\2282",
+    "js": "<a href='javascript:alert(&quot;\\u2282&quot;)'>\\u2282</a>"
+  },
+  {
+    "html": "`&sup;`",
+    "symbol": "⊃",
+    "numeric": "`&#8835;`",
+    "description": "superset of",
+    "hex": "u+2283 ISOtech",
+    "css": "\\\\2283",
+    "js": "<a href='javascript:alert(&quot;\\u2283&quot;)'>\\u2283</a>"
+  },
+  {
+    "html": "`&nsub;`",
+    "symbol": "⊄",
+    "numeric": "`&#8836;`",
+    "description": "not a subset of",
+    "hex": "u+2284 ISOamsn",
+    "css": "\\\\2284",
+    "js": "<a href='javascript:alert(&quot;\\u2284&quot;)'>\\u2284</a>"
+  },
+  {
+    "html": "`&sube;`",
+    "symbol": "⊆",
+    "numeric": "`&#8838;`",
+    "description": "subset of or equal to",
+    "hex": "u+2286 ISOtech",
+    "css": "\\\\2286",
+    "js": "<a href='javascript:alert(&quot;\\u2286&quot;)'>\\u2286</a>"
+  },
+  {
+    "html": "`&supe;`",
+    "symbol": "⊇",
+    "numeric": "`&#8839;`",
+    "description": "superset of or equal to",
+    "hex": "u+2287 ISOtech",
+    "css": "\\\\2287",
+    "js": "<a href='javascript:alert(&quot;\\u2287&quot;)'>\\u2287</a>"
+  },
+  {
+    "html": "`&oplus;`",
+    "symbol": "⊕",
+    "numeric": "`&#8853;`",
+    "description": "circled plus, aka direct sum",
+    "hex": "u+2295 ISOamsb",
+    "css": "\\\\2295",
+    "js": "<a href='javascript:alert(&quot;\\u2295&quot;)'>\\u2295</a>"
+  },
+  {
+    "html": "`&otimes;`",
+    "symbol": "⊗",
+    "numeric": "`&#8855;`",
+    "description": "circled times, aka vector product",
+    "hex": "u+2297 ISOamsb",
+    "css": "\\\\2297",
+    "js": "<a href='javascript:alert(&quot;\\u2297&quot;)'>\\u2297</a>"
+  },
+  {
+    "html": "`&perp;`",
+    "symbol": "⊥",
+    "numeric": "`&#8869;`",
+    "description": "up tack",
+    "hex": "u+22A5 ISOtech",
+    "css": "\\\\22A5",
+    "js": "<a href='javascript:alert(&quot;\\u22a5&quot;)'>\\u22a5</a>"
+  },
+  {
+    "html": "`&sdot;`",
+    "symbol": "⋅",
+    "numeric": "`&#8901;`",
+    "description": "dot operator",
+    "hex": "u+22C5 ISOamsb",
+    "css": "\\\\22C5",
+    "js": "<a href='javascript:alert(&quot;\\u22c5&quot;)'>\\u22c5</a>"
+  },
+  {
+    "html": "`&lceil;`",
+    "symbol": "⌈",
+    "numeric": "`&#8968;`",
+    "description": "left ceiling, aka apl upstile",
+    "hex": "u+2308 ISOamsc",
+    "css": "\\\\2308",
+    "js": "<a href='javascript:alert(&quot;\\u2308&quot;)'>\\u2308</a>"
+  },
+  {
+    "html": "`&rceil;`",
+    "symbol": "⌉",
+    "numeric": "`&#8969;`",
+    "description": "right ceiling",
+    "hex": "u+2309 ISOamsc",
+    "css": "\\\\2309",
+    "js": "<a href='javascript:alert(&quot;\\u2309&quot;)'>\\u2309</a>"
+  },
+  {
+    "html": "`&lfloor;`",
+    "symbol": "⌊",
+    "numeric": "`&#8970;`",
+    "description": "left floor, aka apl downstile",
+    "hex": "u+230A ISOamsc",
+    "css": "\\\\230A",
+    "js": "<a href='javascript:alert(&quot;\\u230a&quot;)'>\\u230a</a>"
+  },
+  {
+    "html": "`&rfloor;`",
+    "symbol": "⌋",
+    "numeric": "`&#8971;`",
+    "description": "right floor",
+    "hex": "u+230B ISOamsc",
+    "css": "\\\\230B",
+    "js": "<a href='javascript:alert(&quot;\\u230b&quot;)'>\\u230b</a>"
+  },
+  {
+    "html": "`&lang;`",
+    "symbol": "〈",
+    "numeric": "`&#9001;`",
+    "description": "left-pointing angle bracket",
+    "hex": "u+2329 ISOtech",
+    "css": "\\\\2329",
+    "js": "<a href='javascript:alert(&quot;\\u2329&quot;)'>\\u2329</a>"
+  },
+  {
+    "html": "`&rang;`",
+    "symbol": "〉",
+    "numeric": "`&#9002;`",
+    "description": "right-pointing angle bracket",
+    "hex": "u+232A ISOtech",
+    "css": "\\\\232A",
+    "js": "<a href='javascript:alert(&quot;\\u232a&quot;)'>\\u232a</a>"
+  },
+  {
+    "html": "`&loz;`",
+    "symbol": "◊",
+    "numeric": "`&#9674;`",
+    "description": "lozenge",
+    "hex": "u+25CA ISOpub",
+    "css": "\\\\25CA",
+    "js": "<a href='javascript:alert(&quot;\\u25ca&quot;)'>\\u25ca</a>"
+  },
+  {
+    "html": "`&spades;`",
+    "symbol": "♠",
+    "numeric": "`&#9824;`",
+    "description": "black spade suit",
+    "hex": "u+2660 ISOpub",
+    "css": "\\\\2660",
+    "js": "<a href='javascript:alert(&quot;\\u2660&quot;)'>\\u2660</a>"
+  },
+  {
+    "html": "`&clubs;`",
+    "symbol": "♣",
+    "numeric": "`&#9827;`",
+    "description": "black club suit, aka shamrock",
+    "hex": "u+2663 ISOpub",
+    "css": "\\\\2663",
+    "js": "<a href='javascript:alert(&quot;\\u2663&quot;)'>\\u2663</a>"
+  },
+  {
+    "html": "`&hearts;`",
+    "symbol": "♥",
+    "numeric": "`&#9829;`",
+    "description": "black heart suit, aka valentine",
+    "hex": "u+2665 ISOpub",
+    "css": "\\\\2665",
+    "js": "<a href='javascript:alert(&quot;\\u2665&quot;)'>\\u2665</a>"
+  },
+  {
+    "html": "`&diams;`",
+    "symbol": "♦",
+    "numeric": "`&#9830;`",
+    "description": "black diamond suit",
+    "hex": "u+2666 ISOpub",
+    "css": "\\\\2666",
+    "js": "<a href='javascript:alert(&quot;\\u2666&quot;)'>\\u2666</a>"
+  }
+]
