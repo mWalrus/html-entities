@@ -3,11 +3,11 @@ prog :=html-entities
 debug ?=
 
 ifdef debug
-  release :=
-  target :=debug
+	release :=
+	target :=debug
 else
-  release :=--release
-  target :=release
+	release :=--release
+	target :=release
 endif
 
 build:
