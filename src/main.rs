@@ -36,7 +36,7 @@ impl fmt::Display for Entity {
 }
 
 fn main() -> Result<()> {
-    let contents = fs::read_to_string("resources/html-entities.json")?;
+    let contents = fs::read_to_string("/usr/share/html-entities/html-entities.json")?;
     let entities = serde_json::from_str::<Vec<Entity>>(&contents)?;
 
     let searchable_entities: Vec<String> = entities.iter().map(Entity::searchable_string).collect();
