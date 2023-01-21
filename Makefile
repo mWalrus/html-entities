@@ -22,7 +22,11 @@ else
 	chmod 755 /usr/bin/$(prog)
 endif
 
-all: build install
+cpfile:
+	mkdir -p /usr/share/html-entities
+	cp -f ./resources/html-entities.json /usr/share/html-entities/
+
+all: build install cpfile
 
 uninstall:
 ifdef debug
@@ -30,6 +34,7 @@ ifdef debug
 else
 	rm /usr/bin/$(prog)
 endif
+	rm -rf /usr/share/html-entities/
 
 help:
 	@echo "usage: make $(prog) [debug=1]"
