@@ -10,7 +10,17 @@ Set TypingSpeed 100ms
 Type "html-entities"
 Enter
 Sleep 500ms
-Type "exclamation"
+Type "slash"
+Tab
+Sleep 200ms
+Tab
+Sleep 200ms
+Tab
+Sleep 200ms
+Tab
+Sleep 200ms
+Backspace
+Sleep 200ms
 Enter
 Sleep 2000ms
 
