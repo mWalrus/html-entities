@@ -11,16 +11,7 @@ Type "html-entities"
 Enter
 Sleep 500ms
 Type "slash"
-Tab
-Sleep 200ms
-Tab
-Sleep 200ms
-Tab
-Sleep 200ms
-Tab
-Sleep 200ms
-Backspace
-Sleep 200ms
+Tab@200ms 3
 Enter
 Sleep 2000ms
 
