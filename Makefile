@@ -13,6 +13,10 @@ endif
 build:
 	cargo build $(release)
 
+cpfile:
+	mkdir -p /usr/share/html-entities
+	cp -f ./resources/html-entities.json /usr/share/html-entities/
+
 install:
 ifdef debug
 	cp target/$(target)/$(prog) /usr/bin/$(prog)-debug
@@ -21,10 +25,6 @@ else
 	cp target/$(target)/$(prog) /usr/bin/$(prog)
 	chmod 755 /usr/bin/$(prog)
 endif
-
-cpfile:
-	mkdir -p /usr/share/html-entities
-	cp -f ./resources/html-entities.json /usr/share/html-entities/
 
 all: build install cpfile
 
