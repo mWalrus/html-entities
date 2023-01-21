@@ -12,4 +12,5 @@ Enter
 Sleep 500ms
 Type "exclamation"
 Enter
+Sleep 2000ms
 
