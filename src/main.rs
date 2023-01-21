@@ -36,8 +36,10 @@ impl fmt::Display for Entity {
 }
 
 fn main() -> Result<()> {
-    let contents = fs::read_to_string("/usr/share/html-entities/html-entities.json")?;
-    let entities = serde_json::from_str::<Vec<Entity>>(&contents)?;
+    let contents = fs::read_to_string("/usr/share/html-entities/html-entities.json")
+        .expect("Entity file not found, try running 'sudo make cpfile'.");
+    let entities =
+        serde_json::from_str::<Vec<Entity>>(&contents).expect("Failed to parse entities");
 
     let searchable_entities: Vec<String> = entities.iter().map(Entity::searchable_string).collect();
 
@@ -48,7 +50,10 @@ fn main() -> Result<()> {
         .interact()
         .unwrap();
 
-    println!("{}", entities.get(selection).unwrap());
+    println!(
+        "{}",
+        entities.get(selection).expect("No selection was made")
+    );
 
     Ok(())
 }
