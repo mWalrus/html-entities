@@ -1,9 +1,8 @@
-use anyhow::Result;
 use colored::Colorize;
 use dialoguer::{theme::ColorfulTheme, FuzzySelect};
 use serde::Deserialize;
 use serde_json;
-use std::{fmt, fs};
+use std::{fmt, fs, process::exit};
 
 #[derive(Deserialize, Debug)]
 struct Entity {
@@ -18,7 +17,12 @@ struct Entity {
 
 impl Entity {
     pub fn searchable_string(&self) -> String {
-        format!("{} - {}", self.title, self.html)
+        format!(
+            "{title} - {html} (symbol: \"{symbol}\")",
+            title = self.title,
+            html = self.html,
+            symbol = self.symbol
+        )
     }
 }
 
@@ -35,12 +39,16 @@ impl fmt::Display for Entity {
     }
 }
 
-fn main() -> Result<()> {
-    let contents = fs::read_to_string("/usr/share/html-entities/html-entities.json")
-        .expect("Entity file not found, try running 'sudo make cpfile'.");
-    let entities =
-        serde_json::from_str::<Vec<Entity>>(&contents).expect("Failed to parse entities");
-
+fn main() {
+    let file_path = "/usr/share/html-entities/html-entities.json";
+    let contents = fs::read_to_string(file_path).unwrap_or_else(|err| {
+        eprintln!("ERROR: Failed to read entity file at {file_path}: {err}");
+        exit(1);
+    });
+    let entities = serde_json::from_str::<Vec<Entity>>(&contents).unwrap_or_else(|err| {
+        eprintln!("ERROR: Failed to parse entity file: {err}");
+        exit(1);
+    });
     let searchable_entities: Vec<String> = entities.iter().map(Entity::searchable_string).collect();
 
     let selection = FuzzySelect::with_theme(&ColorfulTheme::default())
@@ -50,10 +58,5 @@ fn main() -> Result<()> {
         .interact()
         .unwrap();
 
-    println!(
-        "{}",
-        entities.get(selection).expect("No selection was made")
-    );
-
-    Ok(())
+    println!("{sel}", sel = entities.get(selection).unwrap());
 }
